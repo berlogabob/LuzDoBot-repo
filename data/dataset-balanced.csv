@@ -1,0 +1,1216 @@
+Tipo de Sentimento,Comentário,Classificação
+Positivo,"Excelente atendimento na urgência pediátrica. Apesar de muita gente, fomos atendidos em menos de 1 hora e com muita simpatia.",Urgências Hospitalares
+Positivo,"O Dr. Rafael foi incrível, explicou tudo com calma, tirou todas as dúvidas e ainda ligou no dia seguinte a perguntar como eu estava.",Atendimento Hospitalar
+Positivo,"Fiz uma cirurgia de emergência e toda a equipa foi fantástica desde o internamento até à alta. Muito obrigada!",Cirurgia
+Positivo,"As enfermeiras do internamento são anjos. Cuidaram da minha mãe como se fosse família.",Internamento
+Positivo,"Marquei consulta online às 23h e no dia seguinte já tinha hora. Serviço espectacular.",Marcação de Consultas
+Positivo,"Sempre que vou ao Hospital da Luz sinto-me tratado como pessoa e não como número. Recomendo a 100%.",Atendimento Hospitalar
+Positivo,"Instalações impecáveis, tudo muito limpo e organizado. Parece um hotel de luxo.",Instalações
+Positivo,"Resultados dos exames apareceram na app em menos de 24h. Muito prático!",Exames Médicos
+Positivo,"Equipe de obstetrícia maravilhosa. O meu parto foi tranquilo e senti-me super acompanhada.",Obstetrícia
+Positivo,"O call center atendeu-me em menos de 1 minuto e resolveram tudo com muita simpatia.",Call Center
+Positivo,"Fiz uma ressonância e o técnico foi super cuidadoso e explicava tudo o que estava a fazer.",Exames Médicos
+Positivo,"Muito grato ao Dr. João Gonçalves por ter resolvido o meu problema de coluna depois de anos de dores.",Atendimento Hospitalar
+Positivo,"As auxiliares são extremamente atenciosas, ajudam com cadeiras de rodas e sorrisos o tempo todo.",Atendimento Hospitalar
+Positivo,"Fui operado ao joelho e a recuperação foi muito mais rápida do que esperava graças ao acompanhamento.",Cirurgia
+Positivo,"O Hospital da Luz salvou a vida do meu filho. Não tenho palavras para agradecer à equipa da pediatria.",Pediátrico
+Positivo,"Consulta começou à hora exacta. Nunca esperei mais de 5 minutos.",Atendimento Hospitalar
+Positivo,"Adoro a aplicação do Hospital da Luz. Tudo lá: marcações, resultados, facturas.",Aplicação
+Positivo,"Fiz colonoscopia e toda a equipa foi muito profissional e delicada.",Exames Médicos
+Positivo,"As enfermeiras do bloco operatório são incríveis, acalmam-nos mesmo nos momentos de maior ansiedade.",Cirurgia
+Positivo,"Muito satisfeito com o serviço de cardiologia. Os melhores médicos de Lisboa.",Cardiologia
+Positivo,"Fui muito bem recebido na urgência às 3h da manhã. Atendimento rápido e humano.",Urgências Hospitalares
+Positivo,"O hospital tem estacionamento fácil e barato. Ponto muito positivo.",Estacionamento
+Positivo,"Fiz uma cesariana e o pós-parto foi acompanhado com muito cuidado e carinho.",Obstetrícia
+Positivo,"O Dr. Miguel Almeida diagnosticou rápido e acertou em cheio. Excelente profissional.",Atendimento Hospitalar
+Positivo,"Toda a equipa de oncologia é fantástica. Tratam-nos com respeito e esperança.",Oncologia
+Positivo,"Fiz fisioterapia no hospital e melhorei imenso. Os fisioterapeutas são tops.",Fisioterapia
+Positivo,"O café da entrada é ótimo e os preços são normais. Dá para esperar confortavelmente.",Cafeteria
+Positivo,"Recebi SMS e email a lembrar a consulta. Muito útil.",Marcação de Consultas
+Positivo,"As salas de espera são confortáveis e têm Wi-Fi grátis.",Instalações
+Positivo,"Fiz análises e nem senti a picada. Enfermeira muito boa.",Análises
+Positivo,"O Hospital da Luz Oeiras é o meu preferido. Sempre bem atendido.",Instalações
+Positivo,"Fui acompanhado desde o diagnóstico até à cirurgia. Continuidade de cuidados excelente.",Atendimento Hospitalar
+Positivo,"Muito satisfeito com o serviço de ortopedia. Voltaria sem dúvida.",Ortopedia
+Positivo,"As recepcionistas são sempre simpáticas e prestáveis.",Recepção
+Positivo,"Fiz uma endoscopia e dormi o tempo todo. Acordei bem e sem dores.",Exames Médicos
+Positivo,"O pediatra do meu filho é espectacular. Sempre disponível e atencioso.",Pediátrico
+Positivo,"Fui operada à vesícula e no dia seguinte já estava em casa. Recuperação excelente.",Cirurgia
+Positivo,"O hospital tem uma farmácia 24h muito útil.",Farmácia
+Positivo,"Muito grato à equipa de neurologia por terem resolvido as minhas enxaquecas.",Neurologia
+Positivo,"Fiz TAC e o resultado saiu no mesmo dia. Rápido e eficiente.",Exames Médicos
+Positivo,"O ambiente é calmo e transmite confiança.",Instalações
+Positivo,"Fui tratado com muito respeito e dignidade mesmo na urgência.",Urgências Hospitalares
+Positivo,"A Dra. Natacha fez a minha cirurgia e foi fantástica. Explicou tudo muito bem.",Cirurgia
+Positivo,"Os seguranças são muito educados e ajudam com as malas se necessário.",Atendimento Hospitalar
+Positivo,"Fiz uma consulta de dermatologia e saí com o problema resolvido na hora.",Dermatologia
+Positivo,"O hospital aceita o meu seguro e tudo é comparticipado. Excelente.",Seguros
+Positivo,"Fui muito bem atendido no serviço de otorrinolaringologia.",Otorrino
+Positivo,"As camas do internamento são confortáveis e os quartos muito limpos.",Internamento
+Positivo,"O Dr. Carlos Braga é o melhor pediatra que o meu filho já teve.",Pediátrico
+Positivo,"Fiz raio-X e nem 10 minutos depois já tinha o resultado.",Exames Médicos
+Positivo,"Toda a equipa sorri e transmite boa energia.",Atendimento Hospitalar
+Positivo,"O hospital tem uma capela para quem precisa de um momento de silêncio.",Instalações
+Positivo,"Fui operado de urgência e salvaram-me a vida. Eterno obrigado.",Urgências Hospitalares
+Positivo,"A comida do internamento é surpreendentemente boa.",Internamento
+Positivo,"Fiz ecografia e a médica foi muito cuidadosa e explicou tudo o que via.",Exames Médicos
+Positivo,"O check-in nas máquinas é rápido e prático.",Check-in
+Positivo,"Fui acompanhado por uma psicóloga durante o internamento. Muito importante.",Saúde Mental
+Positivo,"O hospital tem quartos individuais espaçosos e com vista.",Internamento
+Positivo,"Fiz uma consulta de oftalmologia e saí com óculos novos no mesmo dia.",Oftalmologia
+Positivo,"Os auxiliares de ação médica são muito prestáveis.",Atendimento Hospitalar
+Positivo,"Fui muito bem recebido no serviço de ginecologia.",Ginecologia
+Positivo,"O hospital tem uma loja com produtos úteis para doentes.",Instalações
+Positivo,"Fiz uma consulta de urologia e o médico foi muito profissional.",Urologia
+Positivo,"A limpeza é impecável em todo o lado.",Higiene
+Positivo,"Fui operado às amígdalas e a recuperação foi ótima.",Cirurgia
+Positivo,"O hospital tem um serviço de transporte para doentes com mobilidade reduzida.",Acessibilidade
+Positivo,"Fiz uma consulta de pneumologia e saí com o tratamento certo.",Pneumologia
+Positivo,"As enfermeiras do turno da noite são incansáveis.",Internamento
+Positivo,"O hospital tem uma área de brincar para crianças na pediatria.",Pediátrico
+Positivo,"Fiz uma gastroscopia e tudo correu muito bem.",Exames Médicos
+Positivo,"O Dr. Pereira Coutinho é um excelente ortopedista.",Ortopedia
+Positivo,"Fui muito bem atendido no serviço de reumatologia.",Reumatologia
+Positivo,"O hospital tem Wi-Fi rápido e grátis em todo o lado.",Instalações
+Positivo,"Fiz uma consulta de endocrinologia e finalmente resolveram o meu problema.",Endocrinologia
+Positivo,"As rececionistas falam várias línguas. Muito útil para estrangeiros.",Recepção
+Positivo,"Fui operado à catarata e no dia seguinte já via perfeitamente.",Cirurgia
+Positivo,"O hospital tem um serviço de apoio ao utente excelente.",Atendimento Hospitalar
+Positivo,"Fiz uma consulta de psicologia e senti-me muito acolhido.",Saúde Mental
+Positivo,"Os elevadores são rápidos e nunca estão cheios.",Instalações
+Positivo,"Fui muito bem atendido no serviço de nefrologia.",Nefrologia
+Positivo,"O hospital tem uma equipa de nutrição fantástica.",Nutrição
+Positivo,"Fiz uma consulta de medicina interna e saí com tudo resolvido.",Medicina Interna
+Positivo,"As salas de exames são modernas e confortáveis.",Exames Médicos
+Positivo,"Fui operado ao nariz e respiração melhorou 100%.",Cirurgia
+Positivo,"O hospital tem um serviço de hemodiálise excelente.",Hemodiálise
+Positivo,"Fiz uma consulta de gastrenterologia e o médico foi muito atencioso.",Gastrenterologia
+Positivo,"Os quartos têm TV e isso ajuda a passar o tempo no internamento.",Internamento
+Positivo,"Fui muito bem atendido no serviço de hematologia.",Hematologia
+Positivo,"O hospital tem uma equipa de anestesistas fantástica.",Anestesia
+Positivo,"Fiz uma consulta de medicina física e reabilitação excelente.",Reabilitação
+Positivo,"As enfermeiras explicam tudo sobre a medicação.",Enfermagem
+Positivo,"Fui operado à próstata e recuperação foi rápida.",Cirurgia
+Positivo,"O hospital tem um serviço de imagiologia de ponta.",Imagiologia
+Positivo,"Fiz uma consulta de infectologia e saí mais tranquilo.",Infectologia
+Positivo,"Os médicos têm tempo para ouvir os doentes.",Atendimento Hospitalar
+Positivo,"Fui muito bem atendido no serviço de proctologia.",Proctologia
+Positivo,"O hospital tem uma equipa de estomatologia excelente.",Estomatologia
+Positivo,"Fiz uma consulta de angiologia e vascular muito boa.",Angiologia
+Positivo,"As análises são feitas com material descartável de qualidade.",Análises
+Positivo,"Fui operado ao túnel cárpico e mão ficou perfeita.",Cirurgia
+Positivo,"O hospital tem um serviço de radiologia intervencionista top.",Radiologia
+Positivo,"Fiz uma consulta de imunologia e finalmente descobriram o problema.",Imunologia
+Positivo,"Os doentes oncológicos são tratados com muito carinho.",Oncologia
+Positivo,"Fui muito bem atendido no serviço de medicina tropical.",Medicina Tropical
+Positivo,"O hospital tem uma equipa de cirurgia plástica excelente.",Cirurgia Plástica
+Positivo,"Fiz uma consulta de neurocirurgia e saí mais descansado.",Neurocirurgia
+Positivo,"As consultas de follow-up são pontuais.",Atendimento Hospitalar
+Positivo,"Fui operado à hérnia discal e voltei a andar sem dores.",Cirurgia
+Positivo,"O hospital tem um serviço de medicina do viajante muito útil.",Medicina do Viajante
+Positivo,"Fiz uma consulta de cirurgia vascular excelente.",Cirurgia Vascular
+Positivo,"Os médicos explicam os exames com calma.",Atendimento Hospitalar
+Positivo,"Fui muito bem atendido no serviço de cirurgia maxilo-facial.",Cirurgia Maxilo-Facial
+Positivo,"O hospital tem uma equipa de pedopsiquiatria fantástica.",Pedopsiquiatria
+Positivo,"Fiz uma consulta de medicina estética e fiquei super satisfeito.",Medicina Estética
+Positivo,"As vacinas são aplicadas com muito cuidado.",Vacinação
+Positivo,"Fui operado às varizes e pernas ficaram ótimas.",Cirurgia
+Positivo,"O hospital tem um serviço de check-up completo excelente.",Check-up
+Positivo,"Fiz uma consulta de sexologia e senti-me muito à vontade.",Sexologia
+Positivo,"Os relatórios médicos são detalhados e claros.",Relatórios
+Positivo,"Fui muito bem atendido no serviço de medicina dentária.",Medicina Dentária
+Positivo,"O hospital tem uma equipa de ortodontia excelente.",Ortodontia
+Positivo,"Fiz uma consulta de implantologia e correu tudo bem.",Implantologia
+Positivo,"As limpezas dentárias são feitas com muita suavidade.",Medicina Dentária
+Positivo,"Fui operado aos dentes do siso e recuperação foi rápida.",Cirurgia Oral
+Positivo,"O hospital tem um serviço de periodontologia top.",Periodontologia
+Positivo,"Fiz uma consulta de endodontia excelente.",Endodontia
+Positivo,"Os aparelhos dentários são de última geração.",Ortodontia
+Positivo,"Fui muito bem atendido no serviço de próteses dentárias.",Próteses
+Positivo,"O hospital tem uma equipa de odontopediatria fantástica.",Odontopediatria
+Positivo,"Fiz uma consulta de estética dentária e sorriso ficou perfeito.",Estética Dentária
+Positivo,"As rececionistas da clínica dentária são muito simpáticas.",Recepção
+Positivo,"Fui operado à articulação temporo-mandibular e melhorei imenso.",Cirurgia
+Positivo,"O hospital tem um serviço de radiologia dentária digital.",Imagiologia
+Positivo,"Fiz uma consulta de halitose e resolveram o problema.",Medicina Dentária
+Positivo,"Os branqueamentos dentários são seguros e eficazes.",Estética Dentária
+Positivo,"Fui muito bem atendido no serviço de ortopedia dento-facial.",Ortopedia Dento-Facial
+Positivo,"O hospital tem uma equipa de dentisteria conservadora excelente.",Dentisteria
+Positivo,"Fiz facetas dentárias e ficaram naturais.",Estética Dentária
+Positivo,"As consultas de revisão são gratuitas no primeiro ano.",Medicina Dentária
+Positivo,"Fui operado a um quisto dentário e correu tudo bem.",Cirurgia Oral
+Positivo,"O hospital tem um serviço de sedação para doentes ansiosos.",Sedação
+Positivo,"Fiz uma consulta de prótese sobre implantes excelente.",Implantologia
+Positivo,"Os preços são justos para a qualidade oferecida.",Preços
+Positivo,"Fui muito bem atendido em todos os serviços que utilizei.",Atendimento Hospitalar
+Positivo,"O hospital tem uma equipa multidisciplinar fantástica.",Equipas
+Positivo,"Fiz vários exames no mesmo dia. Muito organizado.",Exames Médicos
+Positivo,"Os médicos trabalham em equipa e isso nota-se nos resultados.",Atendimento Hospitalar
+Positivo,"Fui acompanhado desde o diagnóstico até à cura completa.",Continuidade de Cuidados
+Positivo,"O hospital tem protocolos atualizados e segue as melhores práticas.",Qualidade
+Positivo,"Fiz uma consulta em telemedicina e correu muito bem.",Telemedicina
+Positivo,"Os doentes crónicos têm planos de acompanhamento personalizados.",Doenças Crónicas
+Positivo,"Fui muito bem atendido no serviço de medicina do trabalho.",Medicina do Trabalho
+Positivo,"O hospital tem acordos com quase todas as seguradoras.",Seguros
+Positivo,"Fiz uma consulta de medicina desportiva excelente.",Medicina Desportiva
+Positivo,"As instalações desportivas para reabilitação são ótimas.",Reabilitação
+Positivo,"Fui operado por técnica minimamente invasiva. Recuperação rapidíssima.",Cirurgia
+Positivo,"O hospital tem um serviço de urgência 24h sempre disponível.",Urgências Hospitalares
+Positivo,"Fiz uma consulta de medicina geral e familiar muito boa.",Medicina Geral
+Positivo,"Os médicos de família conhecem bem o historial dos doentes.",Medicina Familiar
+Positivo,"Fui muito bem atendido no serviço de saúde oral.",Saúde Oral
+Positivo,"O hospital tem uma equipa de enfermagem altamente qualificada.",Enfermagem
+Positivo,"Fiz uma consulta de podologia e saí a andar sem dores.",Podologia
+Positivo,"As massagens de reabilitação são feitas por profissionais excelentes.",Reabilitação
+Positivo,"Fui operado ao ombro e voltei a jogar ténis em 3 meses.",Cirurgia
+Positivo,"O hospital tem um ginásio de reabilitação fantástico.",Reabilitação
+Positivo,"Fiz uma consulta de osteopatia e melhorei imenso.",Osteopatia
+Positivo,"Os tratamentos de fisioterapia são personalizados.",Fisioterapia
+Positivo,"Fui muito bem atendido no serviço de terapia da fala.",Terapia da Fala
+Positivo,"O hospital tem uma piscina para hidroterapia.",Reabilitação
+Positivo,"Fiz terapia ocupacional e recuperei a autonomia.",Terapia Ocupacional
+Positivo,"As consultas de psicologia infantil são excelentes.",Psicologia Infantil
+Positivo,"Fui acompanhado por um psiquiatra muito humano.",Psiquiatria
+Positivo,"O hospital tem um serviço de neuropsicologia top.",Neuropsicologia
+Positivo,"Fiz uma consulta de hipnoterapia e ajudou muito na ansiedade.",Hipnoterapia
+Positivo,"Os grupos de apoio para doentes oncológicos são muito importantes.",Apoio Psicológico
+Positivo,"Fui muito bem atendido no serviço de medicina chinesa.",Medicina Chinesa
+Positivo,"O hospital tem um espaço de meditação e relaxamento.",Bem-estar
+Positivo,"Fiz acupuntura e as dores desapareceram.",Acupuntura
+Positivo,"As aulas de yoga para grávidas são ótimas.",Gravidez
+Positivo,"Fui acompanhado por uma doula durante o parto.",Parto
+Positivo,"O hospital tem um banco de leite materno.",Maternidade
+Positivo,"Fiz um curso de preparação para o parto excelente.",Preparação Parto
+Positivo,"As consultas de planeamento familiar são muito completas.",Planeamento Familiar
+Positivo,"Fui muito bem atendido no serviço de infertilidade.",Fertilidade
+Positivo,"O hospital tem uma unidade de neonatologia de excelência.",Neonatologia
+Positivo,"Fiz uma consulta de genética médica muito esclarecedora.",Genética
+Positivo,"Os rastreios oncológicos são feitos com a maior precisão.",Rastreios
+Positivo,"Fui operado por robot Da Vinci. Tecnologia de ponta.",Cirurgia Robótica
+Positivo,"O hospital tem um serviço de transplantes excelente.",Transplantes
+Positivo,"Fiz uma consulta de medicina regenerativa promissora.",Medicina Regenerativa
+Positivo,"As células estaminais do cordão do meu filho estão guardadas aqui.",Banco Células
+Positivo,"Fui muito bem atendido em todas as fases do tratamento.",Atendimento Hospitalar
+Positivo,"O Hospital da Luz é a minha escolha número 1 para toda a família.",Recomendação
+Positivo,"Aqui tratam-nos como pessoas, não como clientes. Obrigado!",Atendimento Hospitalar
+Positivo,"Fiz uma histeroscopia diagnóstica e a Dra. Ana foi extremamente delicada e profissional. Saí super tranquila.",Ginecologia
+Positivo,"O serviço de medicina nuclear é rápido e os técnicos explicam tudo com muita paciência.",Medicina Nuclear
+Positivo,"Fiz PET-CT e o relatório chegou em 48h. Excelente qualidade e rapidez.",Imagiologia
+Positivo,"A unidade de cuidados intensivos salvou o meu pai. Equipa incrível, humana e altamente qualificada.",UCI
+Positivo,"O hospital tem um helicóptero para transferências urgentes – segurança máxima.",Via Verde
+Positivo,"Fiz quimioterapia e as enfermeiras do hospital de dia oncológico são anjos da guarda.",Oncologia
+Positivo,"O serviço de radioterapia é de última geração e com efeitos secundários mínimos.",Radioterapia
+Positivo,"Fui operado por laparoscopia e no próprio dia já estava em casa. Incrível!",Cirurgia Minimamente Invasiva
+Positivo,"A equipa de transplante hepático é referência nacional. Orgulho de ter sido tratado aqui.",Transplantes
+Positivo,"O hospital tem um laboratório de sono excelente. Finalmente descobriram o meu problema.",Medicina do Sono
+Positivo,"Fiz uma consulta de alergologia e imunoterapia. Resultados fantásticos em poucos meses.",Alergologia
+Positivo,"O serviço de dor crónica mudou a minha vida. Finalmente vivo sem dores constantes.",Dor Crónica
+Positivo,"Fiz braquiterapia prostática e tudo correu perfeitamente.",Oncologia
+Positivo,"A unidade de AVC tem protocolo rápido e salvou a mobilidade da minha mãe.",AVC
+Positivo,"O hospital tem um centro de epilepsia de referência. Excelente acompanhamento.",Epilepsia
+Positivo,"Fiz estimulação cardíaca e o pacemaker foi colocado com toda a segurança.",Cardiologia
+Positivo,"A equipa de cirurgia cardíaca pediátrica é maravilhosa. O meu bebé está perfeito.",Cardiologia Pediátrica
+Positivo,"Fiz ablação por cateter e o coração voltou ao ritmo normal.",Arritmologia
+Positivo,"O serviço de hemodinâmica funciona 24h. Salvaram-me a vida às 4 da manhã.",Hemodinâmica
+Positivo,"Fiz uma angioplastia coronária e no dia seguinte já estava em casa.",Cardiologia Intervencionista
+Positivo,"O hospital tem um robot cirúrgico Da Vinci de última geração. Recuperação incrível.",Cirurgia Robótica
+Positivo,"Fiz cirurgia bariátrica e o acompanhamento multidisciplinar é espectacular.",Cirurgia Bariátrica
+Positivo,"A unidade de queimados é referência. Cuidaram do meu filho com muito carinho.",Queimados
+Positivo,"Fiz transplante de medula e a equipa de hematologia é fantástica.",Hematologia
+Positivo,"O serviço de medicina hiperbárica ajudou imenso na cicatrização.",Medicina Hiperbárica
+Positivo,"Fiz uma consulta de medicina aeroespacial (sou piloto) e foi super completa.",Medicina Aeroespacial
+Positivo,"O hospital tem um centro de investigação clínica excelente.",Investigação
+Positivo,"Fiz um ensaio clínico aqui e o acompanhamento foi impecável.",Ensaios Clínicos
+Positivo,"O serviço de telemonitorização cardíaca dá-me muita tranquilidade em casa.",Telemonitorização
+Positivo,"Fiz uma consulta em segunda opinião e valeu cada euro.",Segunda Opinião
+Positivo,"O hospital tem um programa VIP para doentes internacionais – tudo em inglês e perfeito.",Internacional
+Positivo,"Fiz cirurgia refrativa aos olhos e no dia seguinte já via 100%. Incrível!",Oftalmologia
+Positivo,"A unidade de retina é das melhores da Europa.",Oftalmologia
+Positivo,"Fiz implante coclear no meu filho surdo e ele já ouve e fala!",Otorrinolaringologia
+Positivo,"O serviço de voz e deglutição é excelente.",Foniatria
+Positivo,"Fiz rinoplastia funcional e estética – respiração e visual perfeitos.",Cirurgia Plástica
+Positivo,"O hospital tem um centro de fertilidade com taxas de sucesso altíssimas.",PMA
+Positivo,"Fiz preservação de fertilidade antes da quimioterapia. Deram-me esperança.",Oncofertilidade
+Positivo,"A unidade de medicina materno-fetal acompanhou a minha gravidez de risco. Bebé perfeito.",Medicina Materno-Fetal
+Positivo,"Fiz amniocentese e o resultado chegou em 48h. Muito rápido.",Genética
+Positivo,"O hospital tem um banco de sangue do cordão umbilical próprio.",Células Estaminais
+Positivo,"Fiz parto na água e foi uma experiência inesquecível e tranquila.",Parto Humanizado
+Positivo,"A equipa de neonatologia cuidou do meu prematuro de 28 semanas. Hoje está perfeito.",Neonatologia
+Positivo,"O hospital tem um programa de aleitamento materno fantástico.",Aleitamento
+Positivo,"Fiz ligadura de trompas por videolaparoscopia – recuperação em 2 dias.",Ginecologia
+Positivo,"O serviço de menopausa é muito completo e humano.",Menopausa
+Positivo,"Fiz histerectomia robótica e voltei ao trabalho em 10 dias.",Cirurgia Robótica
+Positivo,"A unidade de endometriose é referência nacional.",Endometriose
+Positivo,"Fiz miomectomia preservando o útero. Sonho de ser mãe mantido.",Ginecologia
+Positivo,"O hospital tem um centro de incontinência urinária excelente.",Uroginecologia
+Positivo,"Fiz cirurgia de prolapso e recuperei a qualidade de vida.",Uroginecologia
+Positivo,"O serviço de sexologia ajudou imenso o meu casamento.",Sexologia
+Positivo,"Fiz vasectomia sem bisturi – 15 minutos e zero dor.",Urologia
+Positivo,"O hospital tem um litotriptor de última geração para pedras nos rins.",Urologia
+Positivo,"Fiz prostatectomia robótica e a continência voltou rápido.",Cirurgia Robótica
+Positivo,"A unidade de andrologia resolveu o meu problema de fertilidade masculina.",Andrologia
+Positivo,"Fiz circuncisão a laser – recuperação rapidíssima.",Urologia
+Positivo,"O serviço de medicina do sono pediátrica ajudou o meu filho a dormir finalmente.",Pediátrico
+Positivo,"Fiz testes de alergia alimentar e descobrimos tudo.",Alergologia Pediátrica
+Positivo,"O hospital tem uma piscina de reabilitação pediátrica ótima.",Reabilitação Pediátrica
+Positivo,"Fiz vacinação internacional para viagem e tudo perfeito.",Vacinação Viagem
+Positivo,"O serviço de dermatologia pediátrica é muito cuidadoso com as crianças.",Dermatologia Pediátrica
+Positivo,"Fiz ortodontia no meu filho e o sorriso ficou perfeito.",Ortodontia
+Positivo,"O hospital tem um centro de neurodesenvolvimento infantil excelente.",Neurodesenvolvimento
+Positivo,"Fiz terapia da fala e o meu filho começou a falar.",Terapia da Fala
+Positivo,"A equipa de psicologia infantil é fantástica.",Psicologia Infantil
+Positivo,"Fiz cirurgia de fimose no meu filho e correu tudo bem.",Cirurgia Pediátrica
+Positivo,"O hospital tem uma urgência pediátrica separada – muito mais calma.",Urgência Pediátrica
+Positivo,"Fiz broncoscopia no meu filho e a equipa foi incrível.",Pneumologia Pediátrica
+Positivo,"O serviço de gastroenterologia pediátrica resolveu as cólicas do bebé.",Gastro Pediátrica
+Positivo,"Fiz testes genéticos para doenças raras e tivemos resposta rápida.",Genética
+Positivo,"O hospital tem um programa para crianças com TDAH excelente.",TDAH
+Positivo,"Fiz cirurgia de estrabismo no meu filho e os olhos ficaram perfeitos.",Oftalmologia Pediátrica
+Positivo,"A equipa de ortopedia pediátrica é muito cuidadosa.",Ortopedia Pediátrica
+Positivo,"Fiz colocação de tubos de ventilação (diabinhos) e o ouvido melhorou logo.",Otorrino Pediátrica
+Positivo,"O hospital tem uma brinquedoteca na pediatria – as crianças adoram.",Pediátrico
+Positivo,"Fiz ecografia 4D do bebé e foi emocionante.",Obstetrícia
+Positivo,"O serviço de nutrição pediátrica ajudou o meu filho a ganhar peso.",Nutrição
+Positivo,"Fiz testes de intolerâncias alimentares e finalmente sabemos o que evitar.",Nutrição
+Positivo,"O hospital tem um chef que adapta menus para doentes com restrições.",Nutrição
+Positivo,"Fiz um programa de perda de peso com endocrinologista e nutricionista – perdi 25 kg!",Obesidade
+Positivo,"O serviço de medicina anti-aging é excelente.",Medicina Anti-Aging
+Positivo,"Fiz check-up executivo completo e valeu cada euro.",Check-up
+Positivo,"O hospital tem um concierge para doentes VIP – tudo facilitado.",Serviço VIP
+Positivo,"Fiz todos os exames num só dia no check-up premium.",Check-up
+Positivo,"O relatório do check-up é super detalhado e com recomendações personalizadas.",Check-up
+Positivo,"O hospital tem acordos com empresas para medicina do trabalho – tudo rápido.",Medicina do Trabalho
+Positivo,"Fiz testes de esforço e o cardiologista foi excelente.",Cardiologia Desportiva
+Positivo,"O hospital patrocina atletas de alta competição – nota-se a qualidade.",Medicina Desportiva
+Positivo,"Fiz reabilitação após lesão desportiva e voltei a competir.",Reabilitação Desportiva
+Positivo,"O hospital tem uma piscina olímpica para hidroterapia.",Reabilitação
+Positivo,"Fiz um programa de cessação tabágica e parei de fumar.",Pneumologia
+Positivo,"O serviço de saúde mental é discreto e muito profissional.",Saúde Mental
+Positivo,"Fiz terapia cognitivo-comportamental e mudou a minha vida.",Psicologia
+Positivo,"O hospital tem um programa de mindfulness para doentes e funcionários.",Bem-estar
+Positivo,"Fiz yoga terapêutica no hospital e as dores nas costas desapareceram.",Bem-estar
+Positivo,"O hospital tem um jardim terapêutico lindo.",Instalações
+Positivo,"Fiz massagem de drenagem linfática pós-cirurgia – excelente.",Reabilitação
+Positivo,"O hospital tem um spa médico com tratamentos fantásticos.",Bem-estar
+Positivo,"Fiz peeling e laser facial – pele renovada.",Dermatologia Estética
+Positivo,"O hospital tem um cabeleireiro para doentes oncológicos – muito importante.",Apoio Oncológico
+Positivo,"Fiz maquilhagem corretiva após cirurgia – ganhei confiança.",Estética
+Positivo,"O hospital oferece perucas grátis para doentes em quimioterapia.",Apoio Oncológico
+Positivo,"Fiz um workshop de culinária saudável no hospital.",Nutrição
+Positivo,"O hospital tem um programa de voluntariado incrível.",Comunidade
+Positivo,"Fiz donativo de sangue e o processo foi rápido e confortável.",Banco de Sangue
+Positivo,"O Hospital da Luz é simplesmente o melhor hospital privado de Portugal. Ponto final.",Recomendação
+Positivo,"Fiz uma consulta de medicina integrativa e finalmente encontrei equilíbrio entre convencional e natural.",Medicina Integrativa
+Positivo,"O hospital tem um programa de acupuntura para grávidas que aliviou imenso as náuseas.",Acupuntura
+Positivo,"A equipa de homeopatia é excelente e trabalha em conjunto com os médicos convencionais.",Homeopatia
+Positivo,"Fiz ozonioterapia para artrose e as dores desapareceram em 3 sessões.",Ozonioterapia
+Positivo,"O serviço de osteopatia craniana resolveu as enxaquecas do meu bebé.",Osteopatia
+Positivo,"Fiz reflexologia e o stress baixou logo na primeira sessão.",Reflexologia
+Positivo,"O hospital tem aromaterapia no bloco de partos – ambiente muito mais calmo.",Aromaterapia
+Positivo,"Fiz reiki pós-cirurgia e a recuperação foi muito mais rápida.",Reiki
+Positivo,"A equipa de medicina ayurvédica ajudou-me a regular o sono e a digestão.",Ayurveda
+Positivo,"Fiz hipnose para deixar de fumar e nunca mais toquei num cigarro.",Hipnoterapia
+Positivo,"O hospital tem um programa de mindfulness para doentes oncológicos – mudou tudo.",Mindfulness
+Positivo,"Fiz terapia com cristais e pedras quentes – relaxamento total.",Terapias Alternativas
+Positivo,"O serviço de naturopatia é muito completo e baseado em evidência.",Naturopatia
+Positivo,"Fiz iridologia e descobri desequilíbrios que ninguém tinha visto.",Iridologia
+Positivo,"O hospital tem um jardim de plantas medicinais lindo e didático.",Fitoterapia
+Positivo,"Fiz consulta de fitoterapia e substitui vários medicamentos por chás e extratos.",Fitoterapia
+Positivo,"A equipa de quiropraxia alinhou-me a coluna em 4 sessões.",Quiropraxia
+Positivo,"Fiz massagem ayurvédica e senti-me renovado.",Massagem
+Positivo,"O hospital oferece banhos de som com taças tibetanas – experiência incrível.",Terapia do Som
+Positivo,"Fiz constelações familiares no hospital e resolvi bloqueios antigos.",Constelações Familiares
+Positivo,"O serviço de coaching de saúde ajudou-me a mudar hábitos para sempre.",Coaching
+Positivo,"Fiz terapia floral de Bach e a ansiedade baixou imenso.",Terapia Floral
+Positivo,"O hospital tem um programa de meditação guiada diária para acompanhantes.",Meditação
+Positivo,"Fiz cromoterapia e as sessões são muito relaxantes.",Cromoterapia
+Positivo,"A equipa de medicina antroposófica é fantástica com crianças.",Antroposofia
+Positivo,"Fiz biodança no grupo de doentes oncológicos – energia renovada.",Biodança
+Positivo,"O hospital tem um programa de arteterapia excelente.",Arteterapia
+Positivo,"Fiz terapia com cavalos e o meu filho autista evoluiu imenso.",Equinoterapia
+Positivo,"O serviço de musicoterapia ajudou o meu pai com Alzheimer.",Musicoterapia
+Positivo,"Fiz dança terapêutica pós-AVC e recuperei movimentos.",Dança Terapêutica
+Positivo,"O hospital tem um atelier de pintura para doentes internados – distração perfeita.",Arte
+Positivo,"Fiz teatro terapêutico e ganhei confiança.",Teatro Terapêutico
+Positivo,"A equipa de clownterapia na pediatria é mágica – as crianças esquecem a dor.",Clownterapia
+Positivo,"Fiz jardinagem terapêutica no hospital – contacto com a terra cura.",Jardinagem Terapêutica
+Positivo,"O hospital tem cães de terapia que visitam os quartos – alegria garantida.",Pet Therapy
+Positivo,"Fiz terapia com golfinhos no programa externo – experiência transformadora.",Terapia Assistida
+Positivo,"O serviço de voluntariado com animais é lindo.",Voluntariado
+Positivo,"Fiz yoga do riso e saí de lá a rir durante horas.",Yoga do Riso
+Positivo,"O hospital organiza caminhadas mindfulness na natureza – gratuito e maravilhoso.",Atividades
+Positivo,"Fiz tai chi no jardim do hospital todas as semanas.",Tai Chi
+Positivo,"A equipa de pilates clínico ajudou-me com a escoliose.",Pilates
+Positivo,"Fiz hidroginástica na piscina terapêutica – articulações agradecem.",Hidroterapia
+Positivo,"O hospital tem um ginásio médico com personal trainer especializado.",Ginásio
+Positivo,"Fiz treino funcional pós-cirurgia e recuperei força rapidamente.",Treino Funcional
+Positivo,"O serviço de nutrição desportiva optimizou a minha performance.",Nutrição Desportiva
+Positivo,"Fiz um retiro de detox de 3 dias no hospital – corpo e mente renovados.",Detox
+Positivo,"O hospital tem um programa de jejum intermitente supervisionado.",Jejum
+Positivo,"Fiz sauna infravermelhos pós-treino – recuperação muscular excelente.",Recuperação
+Positivo,"O spa médico tem crioterapia – alívio imediato nas inflamações.",Crioterapia
+Positivo,"Fiz pressoterapia e as pernas desincharam logo.",Pressoterapia
+Positivo,"O hospital tem um bar de oxigénio – energia instantânea.",Oxigenoterapia
+Positivo,"Fiz flutuação em tanque de privação sensorial – relaxamento profundo.",Flutuação
+Positivo,"A equipa de estética avançada fez-mes laser de última geração – pele perfeita.",Estética
+Positivo,"Fiz preenchimento com ácido hialurónico e ficou super natural.",Estética
+Positivo,"O hospital tem botox preventivo com doses mínimas – resultado discreto e bonito.",Estética
+Positivo,"Fiz fios de sustentação e levantei o rosto sem cirurgia.",Estética
+Positivo,"O serviço de transplante capilar FUE é indolor e com resultado natural.",Transplante Capilar
+Positivo,"Fiz micropigmentação de sobrancelhas e ficou perfeito.",Micropigmentação
+Positivo,"O hospital tem carboxiterapia para estrias – melhorou imenso.",Estética
+Positivo,"Fiz radiofrequência facial e a pele ficou mais firme.",Radiofrequência
+Positivo,"O serviço de depilação a laser é rápido e praticamente indolor.",Depilação Laser
+Positivo,"Fiz peeling químico e a pele renovou completamente.",Peeling
+Positivo,"O hospital tem mesoterapia facial com vitaminas – glow imediato.",Mesoterapia
+Positivo,"Fiz lifting não cirúrgico com HIFU – resultado incrível.",HIFU
+Positivo,"A equipa de cirurgia plástica reconstrutiva mudou a minha vida após o acidente.",Cirurgia Reconstrutiva
+Positivo,"Fiz mamoplastia de aumento e o resultado é super natural.",Cirurgia Plástica
+Positivo,"O hospital tem redução mamária com técnica que preserva a sensibilidade.",Mamoplastia
+Positivo,"Fiz abdominoplastia pós-gravidez e voltei a usar biquini com confiança.",Abdominoplastia
+Positivo,"O serviço de lipo HD deixou o meu corpo definido.",Lipoaspiração
+Positivo,"Fiz blefaroplastia e pareço 10 anos mais novo.",Blefaroplastia
+Positivo,"O hospital tem rinoplastia ultrassónica – recuperação muito mais rápida.",Rinoplastia
+Positivo,"Fiz otoplastia nas orelhas de abano do meu filho – ele adora agora.",Otoplastia
+Positivo,"O serviço de rejuvenescimento íntimo feminino é discreto e eficaz.",Estética Íntima
+Positivo,"Fiz lifting de braços e coxas após emagrecimento grande.",Lifting
+Positivo,"O hospital tem gluteoplastia com prótese ou lipoenxertia – resultado natural.",Gluteoplastia
+Positivo,"Fiz reconstrução mamária após mastectomia – sinto-me completa outra vez.",Reconstrução Mamária
+Positivo,"A equipa de queimados fez enxertos perfeitos.",Cirurgia Plástica
+Positivo,"Fiz remoção de tatuagem a laser e desapareceu completamente.",Remoção Tatuagem
+Positivo,"O hospital tem tratamento de cicatrizes com laser fracionado excelente.",Cicatrizes
+Positivo,"Fiz remoção de sinais e pintas com total segurança.",Dermatologia
+Positivo,"O serviço de tratamento de varizes com espuma é rápido e eficaz.",Escleroterapia
+Positivo,"Fiz coolsculpting e perdi gordura localizada sem cirurgia.",Criolipólise
+Positivo,"O hospital tem emsculpt – ganhei músculo e perdi gordura ao mesmo tempo.",Emsculpt
+Positivo,"Fiz morpheus8 e a pele ficou lisa e firme.",Morpheus8
+Positivo,"O serviço de hydrafacial é o meu ritual mensal – pele sempre perfeita.",Hydrafacial
+Positivo,"Fiz PRP capilar e o cabelo voltou a crescer.",PRP
+Positivo,"O hospital tem exossomas para rejuvenescimento – última geração.",Exossomas
+Positivo,"Fiz skinbooster e a pele ficou hidratada por meses.",Skinbooster
+Positivo,"A equipa de medicina estética é super atualizada e segura.",Estética
+Positivo,"Fiz ultrassom microfocado e o oval do rosto levantou.",Ulthera
+Positivo,"O hospital tem um pacote noiva completo – pele, corpo e cabelo perfeitos para o dia.",Estética
+Positivo,"Fiz tratamento de melasma com laser e cosmecêuticos – finalmente clareou.",Melasma
+Positivo,"O serviço de acne ativa é excelente – pele limpa em 3 meses.",Acne
+Positivo,"Fiz tratamento de rosácea e o vermelhidão desapareceu.",Rosácea
+Positivo,"O hospital tem laser para estrias brancas e vermelhas – melhorou 80%.",Estrias
+Positivo,"Fiz peeling de fenol e o rejuvenescimento foi impressionante.",Peeling Profundo
+Positivo,"A equipa de dermatologia oncológica detectou cedo e tratou tudo.",Dermatologia Oncológica
+Positivo,"Fiz mohs surgery para carcinoma basocelular – margem perfeita.",Cirurgia Mohs
+Positivo,"O hospital tem um centro de doenças raras excelente.",Doenças Raras
+Positivo,"Fiz diagnóstico genético completo e finalmente sei do que sofro.",Genética
+Positivo,"O serviço de farmacogenética personaliza os meus medicamentos.",Farmacogenética
+Positivo,"Fiz sequenciação do genoma completo – informação para a vida toda.",Genómica
+Positivo,"O hospital tem um biobanco próprio para investigação.",Investigação
+Positivo,"Fiz participação num estudo de Alzheimer e sinto que ajudo a ciência.",Ensaios Clínicos
+Positivo,"O Hospital da Luz está sempre na vanguarda – orgulho de ser tratado aqui.",Inovação
+Positivo,"Fiz uma consulta de medicina do viajante antes de ir para África e recebi todas as vacinas e conselhos necessários – viajei super tranquilo.",Medicina do Viajante
+Positivo,"O hospital tem um programa de segunda opinião internacional com médicos de Harvard e Mayo Clinic – diagnóstico confirmado e tratamento ajustado com sucesso.",Segunda Opinião Internacional
+Positivo,"Fui operado por um cirurgião que veio expressamente de Londres para o meu caso – nível de excelência absoluto.",Cirurgia de Excelência
+Positivo,"O Hospital da Luz é, sem dúvida, o melhor hospital privado de Portugal. Qualidade, humanidade e tecnologia no seu melhor. Recomendo de olhos fechados.",Recomendação Geral
+Neutro,"Fui ao Hospital da Luz para fazer uma consulta.",Atendimento Hospitalar
+Neutro,"Entrei no hospital às 14h15.",Atendimento Hospitalar
+Neutro,"Estacionei o carro no parque subterrâneo.",Estacionamento
+Neutro,"Fui atendido na recepção do piso 0.",Recepção
+Neutro,"O médico pediu uma análise ao sangue.",Exames Médicos
+Neutro,"Fiz o check-in na máquina automática.",Check-in
+Neutro,"A consulta estava marcada para as 15h.",Marcação de Consultas
+Neutro,"Esperei na sala de espera cerca de 15 minutos.",Tempo de espera
+Neutro,"Paguei a consulta no balcão de saída.",Pagamento
+Neutro,"Recebi um SMS a confirmar a consulta no dia anterior.",Marcação de Consultas
+Neutro,"O hospital tem vários elevadores.",Instalações
+Neutro,"Fui à urgência e fizeram a triagem.",Urgências Hospitalares
+Neutro,"Levei o meu filho à consulta de pediatria.",Pediátrico
+Neutro,"Marquei a consulta através da aplicação.",Aplicação
+Neutro,"O edifício tem 7 pisos.",Instalações
+Neutro,"Havia cadeiras na sala de espera.",Sala de Espera
+Neutro,"Fiz raio-X ao tórax.",Exames Médicos
+Neutro,"O médico receitou um medicamento.",Atendimento Hospitalar
+Neutro,"Saí do hospital às 16h30.",Atendimento Hospitalar
+Neutro,"Havia lugares no parque de estacionamento.",Estacionamento
+Neutro,"Fiz análises no laboratório do piso -1.",Exames Médicos
+Neutro,"A consulta durou 20 minutos.",Atendimento Hospitalar
+Neutro,"Fui à farmácia do hospital levantar a medicação.",Farmácia
+Neutro,"O hospital tem uma cafetaria no piso 0.",Cafeteria
+Neutro,"Fiz ecografia abdominal.",Exames Médicos
+Neutro,"Recebi os resultados por email.",Exames Médicos
+Neutro,"Fui à consulta de oftalmologia.",Oftalmologia
+Neutro,"O médico consultou o meu processo no computador.",Atendimento Hospitalar
+Neutro,"Havia revistas na sala de espera.",Sala de Espera
+Neutro,"Fiz TAC à cabeça.",Exames Médicos
+Neutro,"O hospital fica na Avenida Lusíada.",Localização
+Neutro,"Fui atendido pelo Dr. António Silva.",Atendimento Hospitalar
+Neutro,"Levei a receita à farmácia.",Farmácia
+Neutro,"O hospital tem Wi-Fi gratuito.",Instalações
+Neutro,"Fiz uma consulta de dermatologia.",Dermatologia
+Neutro,"Paguei com multibanco.",Pagamento
+Neutro,"A consulta era de rotina.",Atendimento Hospitalar
+Neutro,"Fui à urgência pediátrica com o meu filho.",Urgências Pediátricas
+Neutro,"Havia um ecrã com o número da senha.",Check-in
+Neutro,"Fiz uma colonoscopia.",Exames Médicos
+Neutro,"O hospital abre às 7h da manhã.",Horário
+Neutro,"Fui à consulta de ortopedia.",Ortopedia
+Neutro,"O médico pediu uma ressonância magnética.",Exames Médicos
+Neutro,"Fiz o exame no piso 2.",Exames Médicos
+Neutro,"Recebi a factura por email.",Pagamento
+Neutro,"O hospital tem estacionamento pago.",Estacionamento
+Neutro,"Fui à consulta de ginecologia.",Ginecologia
+Neutro,"O médico preencheu o relatório.",Atendimento Hospitalar
+Neutro,"Havia água na sala de espera.",Sala de Espera
+Neutro,"Fiz uma endoscopia.",Exames Médicos
+Neutro,"O hospital tem várias especialidades.",Serviços
+Neutro,"Marquei a próxima consulta para daqui a 6 meses.",Marcação de Consultas
+Neutro,"Fui à consulta de cardiologia.",Cardiologia
+Neutro,"O médico mediu a tensão arterial.",Atendimento Hospitalar
+Neutro,"Fiz análises à urina.",Exames Médicos
+Neutro,"O hospital tem um laboratório próprio.",Laboratório
+Neutro,"Fui à consulta de otorrinolaringologia.",Otorrino
+Neutro,"Paguei com cartão de crédito.",Pagamento
+Neutro,"O hospital tem uma aplicação móvel.",Aplicação
+Neutro,"Fiz uma consulta de urologia.",Urologia
+Neutro,"O médico escreveu uma receita.",Atendimento Hospitalar
+Neutro,"Havia um segurança na entrada.",Segurança
+Neutro,"Fiz uma ecografia à tiróide.",Exames Médicos
+Neutro,"O hospital tem balcões de informação.",Recepção
+Neutro,"Fui à consulta de neurologia.",Neurologia
+Neutro,"O médico pediu um eletrocardiograma.",Exames Médicos
+Neutro,"Fiz o exame no mesmo dia.",Exames Médicos
+Neutro,"Recebi um recibo da consulta.",Pagamento
+Neutro,"O hospital tem uma loja de conveniência.",Instalações
+Neutro,"Fui à consulta de pneumologia.",Pneumologia
+Neutro,"O médico consultou os exames anteriores.",Atendimento Hospitalar
+Neutro,"Havia casas de banho no piso.",Instalações
+Neutro,"Fiz uma mamografia.",Exames Médicos
+Neutro,"O hospital tem um serviço de radiologia.",Imagiologia
+Neutro,"Fui à consulta de gastrenterologia.",Gastrenterologia
+Neutro,"O médico marcou nova consulta.",Marcação de Consultas
+Neutro,"Fiz uma densitometria óssea.",Exames Médicos
+Neutro,"O hospital tem um átrio grande.",Instalações
+Neutro,"Fui à consulta de reumatologia.",Reumatologia
+Neutro,"O médico preencheu o formulário de baixa.",Atendimento Hospitalar
+Neutro,"Havia cadeiras de rodas disponíveis.",Acessibilidade
+Neutro,"Fiz uma audiometria.",Exames Médicos
+Neutro,"O hospital tem um serviço de urgência 24h.",Urgências Hospitalares
+Neutro,"Fui à consulta de endocrinologia.",Endocrinologia
+Neutro,"O médico pediu análises hormonais.",Exames Médicos
+Neutro,"Fiz o pagamento na saída.",Pagamento
+Neutro,"O hospital tem um parque de estacionamento coberto.",Estacionamento
+Neutro,"Fui à consulta de medicina interna.",Medicina Interna
+Neutro,"O médico atualizou o meu processo clínico.",Atendimento Hospitalar
+Neutro,"Havia um televisor na sala de espera.",Sala de Espera
+Neutro,"Fiz uma espirometria.",Exames Médicos
+Neutro,"O hospital tem um serviço de fisioterapia.",Fisioterapia
+Neutro,"Fui à consulta de psicologia.",Psicologia
+Neutro,"O médico marcou uma nova data.",Marcação de Consultas
+Neutro,"Fiz uma eletromiografia.",Exames Médicos
+Neutro,"O hospital tem uma capela.",Instalações
+Neutro,"Fui à consulta de psiquiatria.",Psiquiatria
+Neutro,"O médico renovou a medicação.",Atendimento Hospitalar
+Neutro,"Havia um quiosque de jornais.",Instalações
+Neutro,"Fiz uma polissonografia.",Exames Médicos
+Neutro,"O hospital tem um centro de imagiologia.",Imagiologia
+Neutro,"Fui à consulta de medicina dentária.",Medicina Dentária
+Neutro,"O dentista fez uma limpeza.",Medicina Dentária
+Neutro,"Paguei a consulta dentária.",Pagamento
+Neutro,"O hospital tem uma clínica dentária no piso 3.",Medicina Dentária
+Neutro,"O Hospital da Luz tem urgência 24 horas por dia.",Urgências Hospitalares
+Neutro,"Existem vários hospitais do grupo Luz em Portugal.",Rede Hospitalar
+Neutro,"O hospital tem acordo com a maioria das seguradoras de saúde.",Seguros
+Neutro,"A entrada principal fica virada para a Avenida Lusíada.",Localização
+Neutro,"O hospital tem heliponto no topo do edifício.",Instalações
+Neutro,"Existe um serviço de transporte interno para doentes com mobilidade reduzida.",Acessibilidade
+Neutro,"O hospital tem quartos individuais e duplos no internamento.",Internamento
+Neutro,"Há uma farmácia 24h dentro do hospital.",Farmácia
+Neutro,"O hospital possui laboratório de análises clínicas próprio.",Laboratório
+Neutro,"Existe um centro de imagiologia com TAC, RM e raio-X.",Imagiologia
+Neutro,"O hospital tem bloco operatório com várias salas.",Bloco Operatório
+Neutro,"Existe uma unidade de cuidados intensivos adultos.",UCI
+Neutro,"O hospital tem unidade de cuidados intensivos neonatais.",UCIN
+Neutro,"Há uma unidade de cuidados intermédios.",Cuidados Intermédios
+Neutro,"O hospital tem serviço de hemodiálise.",Hemodiálise
+Neutro,"Existe um hospital de dia para tratamentos oncológicos.",Hospital de Dia
+Neutro,"O hospital possui serviço de quimioterapia.",Oncologia
+Neutro,"Há uma área de fisioterapia e reabilitação.",Reabilitação
+Neutro,"O hospital tem piscina de hidroterapia.",Hidroterapia
+Neutro,"Existe um ginásio médico no serviço de reabilitação.",Reabilitação
+Neutro,"O hospital tem consultas externas em mais de 50 especialidades.",Consultas Externas
+Neutro,"Há uma urgência pediátrica separada da urgência de adultos.",Urgência Pediátrica
+Neutro,"O hospital tem banco de sangue próprio.",Banco de Sangue
+Neutro,"Existe um serviço de anatomia patológica.",Patologia
+Neutro,"O hospital tem um centro de medicina dentária integrado.",Medicina Dentária
+Neutro,"Há uma clínica de oftalmologia com laser excimer.",Oftalmologia
+Neutro,"O hospital possui serviço de cardiologia com hemodinâmica 24h.",Cardiologia
+Neutro,"Existe uma unidade de AVC com Via Verde.",Via Verde AVC
+Neutro,"O hospital tem robot cirúrgico Da Vinci.",Cirurgia Robótica
+Neutro,"Há um serviço de gastroenterologia com endoscopia.",Gastrenterologia
+Neutro,"O hospital tem centro de fertilidade e PMA.",Procriação Medicamente Assistida
+Neutro,"Existe uma maternidade com bloco de partos.",Maternidade
+Neutro,"O hospital tem berçário e neonatologia.",Neonatologia
+Neutro,"Há uma unidade de cirurgia ambulatória.",Cirurgia Ambulatória
+Neutro,"O hospital possui serviço de anestesiologia.",Anestesiologia
+Neutro,"Existe um serviço de nutrição clínica.",Nutrição
+Neutro,"O hospital tem gabinetes de psicologia e psiquiatria.",Saúde Mental
+Neutro,"Há um laboratório do sono.",Medicina do Sono
+Neutro,"O hospital tem serviço de medicina física e reabilitação.",Reabilitação
+Neutro,"Existe uma área de check-up médico completo.",Check-up
+Neutro,"O hospital tem acordos com empresas para medicina do trabalho.",Medicina do Trabalho
+Neutro,"Há uma unidade de medicina estética.",Estética
+Neutro,"O hospital possui serviço de cirurgia plástica.",Cirurgia Plástica
+Neutro,"Existe um centro de dor crónica.",Dor Crónica
+Neutro,"O hospital tem serviço de alergologia.",Alergologia
+Neutro,"Há uma unidade de dermatologia com laser.",Dermatologia
+Neutro,"O hospital tem serviço de ortopedia e traumatologia.",Ortopedia
+Neutro,"Existe um serviço de neurocirurgia.",Neurocirurgia
+Neutro,"O hospital possui unidade de otorrinolaringologia.",Otorrino
+Neutro,"Há um serviço de urologia com litotrícia.",Urologia
+Neutro,"O hospital tem centro de oncologia médica e radioterapia.",Oncologia
+Neutro,"Existe um serviço de pneumologia.",Pneumologia
+Neutro,"O hospital tem unidade de endocrinologia.",Endocrinologia
+Neutro,"Há um serviço de reumatologia.",Reumatologia
+Neutro,"O hospital possui consultas de medicina geral e familiar.",Medicina Geral
+Neutro,"Existe um serviço de pediatria geral.",Pediátrico
+Neutro,"O hospital tem subespecialidades pediátricas.",Pediátrico
+Neutro,"Há uma área de vacinação internacional.",Vacinação
+Neutro,"O hospital tem serviço de medicina do viajante.",Medicina do Viajante
+Neutro,"Existe um centro de investigação clínica.",Investigação
+Neutro,"O hospital tem biblioteca médica.",Biblioteca
+Neutro,"Há um auditório para formações e congressos.",Formação
+Neutro,"O hospital tem capela ecuménica.",Capela
+Neutro,"Existe um jardim interior.",Instalações
+Neutro,"O hospital possui cafetaria e restaurante.",Restauração
+Neutro,"Há uma loja de conveniência e florista.",Loja
+Neutro,"O hospital tem multibanco no átrio.",Serviços
+Neutro,"Existe um posto dos CTT dentro do hospital.",Correios
+Neutro,"O hospital tem serviço de concierge para doentes internacionais.",Internacional
+Neutro,"Há tradução simultânea em várias línguas.",Idiomas
+Neutro,"O hospital tem quartos VIP com serviço de hotel.",VIP
+Neutro,"Existe um serviço de limusina para transferes.",Transporte
+Neutro,"O hospital tem heliponto homologado.",Heliponto
+Neutro,"Há um parque de estacionamento com mais de 1000 lugares.",Estacionamento
+Neutro,"O hospital tem carregadores para carros elétricos.",Carregadores Elétricos
+Neutro,"Existe um posto de carregamento rápido Tesla.",Estacionamento
+Neutro,"O hospital tem bicicletário coberto.",Bicicletas
+Neutro,"Há uma paragem de autocarro mesmo à porta.",Transportes Públicos
+Neutro,"O hospital fica a 5 minutos do metro.",Metro
+Neutro,"Existe um acesso direto da Segunda Circular.",Acesso Rodoviário
+Neutro,"O hospital tem segurança 24h.",Segurança
+Neutro,"Há câmaras de vigilância em todo o lado.",Segurança
+Neutro,"O hospital tem gerador próprio para falhas de energia.",Energia
+Neutro,"Existe um sistema de climatização central.",Climatização
+Neutro,"O hospital tem rede Wi-Fi gratuita em todas as áreas.",Wi-Fi
+Neutro,"Há tomadas USB nas salas de espera.",Sala de Espera
+Neutro,"O hospital tem aplicação móvel para iOS e Android.",Aplicação
+Neutro,"Existe portal do utente online.",Portal Utente
+Neutro,"O hospital envia resultados por SMS e email.",Resultados
+Neutro,"Há possibilidade de teleconsulta em algumas especialidades.",Telemedicina
+Neutro,"O hospital tem acordo com táxis para doentes.",Transporte
+Neutro,"Existe um serviço de apoio ao acompanhante.",Acompanhantes
+Neutro,"O hospital permite um acompanhante no internamento.",Internamento
+Neutro,"Há cadeiras-cama para acompanhantes nos quartos.",Acompanhantes
+Neutro,"O hospital fornece refeições aos acompanhantes mediante pagamento.",Refeições
+Neutro,"Existe um menu variado no internamento.",Alimentação
+Neutro,"O hospital tem opção de menu sem glúten e vegetariano.",Dietas Especiais
+Neutro,"Há um chef responsável pela alimentação clínica.",Nutrição
+Neutro,"O hospital tem programa de voluntariado.",Voluntariado
+Neutro,"Existe uma associação de amigos do hospital.",Associação
+Neutro,"O hospital organiza open days e rastreios gratuitos.",Rastreios
+Neutro,"Há uma fundação do grupo Luz Saúde.",Fundação
+Neutro,"O hospital participa em campanhas de doação de sangue.",Doação de Sangue
+Neutro,"Existe um programa de responsabilidade social.",Responsabilidade Social
+Neutro,"O hospital tem um serviço de atendimento ao cliente por telefone.",Call Center
+Neutro,"Existe uma linha Luz 24 para triagem telefónica.",Luz 24
+Neutro,"O hospital envia lembretes por SMS 48h antes da consulta.",Lembretes
+Neutro,"Há possibilidade de cancelar ou remarcar consulta pela app.",Aplicação
+Neutro,"O hospital tem quiosques self-service para check-in.",Check-in
+Neutro,"Existe um sistema de senhas eletrónicas com ecrãs.",Senhas
+Neutro,"O hospital tem identificação por pulseira com código de barras.",Identificação
+Neutro,"Há controlo de acessos por cartão nos pisos clínicos.",Segurança
+Neutro,"O hospital tem elevadores prioritários para macas.",Elevadores
+Neutro,"Existe um circuito interno exclusivo para transporte de doentes.",Circuitos Internos
+Neutro,"O hospital tem uma central de esterilização própria.",Esterilização
+Neutro,"Há lavandaria industrial para roupa hospitalar.",Lavandaria
+Neutro,"O hospital tem sistema de gestão de resíduos hospitalares.",Resíduos
+Neutro,"Existe um serviço de manutenção 24h.",Manutenção
+Neutro,"O hospital tem equipa de prevenção e controlo de infeção.",Infecciologia
+Neutro,"Há protocolos de higienização das mãos em todos os pisos.",Higiene
+Neutro,"O hospital tem dispensadores de álcool-gel em toda a parte.",Higiene
+Neutro,"Existe um plano de contingência para pandemias.",Contingência
+Neutro,"O hospital tem stock de equipamentos de proteção individual.",EPI
+Neutro,"Há formação contínua para os colaboradores.",Formação
+Neutro,"O hospital tem um departamento de recursos humanos.",RH
+Neutro,"Existe um programa de estágios para estudantes.",Estágios
+Neutro,"O hospital tem parceria com várias universidades.",Ensino
+Neutro,"Há um comité de ética médica.",Ética
+Neutro,"O hospital tem comissão de farmácia e terapêutica.",Farmácia
+Neutro,"Existe um sistema de farmacovigilância.",Farmacovigilância
+Neutro,"O hospital tem protocolo com a Cruz Vermelha.",Emergências
+Neutro,"Há ligação direta com o INEM.",INEM
+Neutro,"O hospital tem Via Verde Coronária.",Via Verde
+Neutro,"Existe Via Verde AVC ativa 24h.",Via Verde AVC
+Neutro,"O hospital participa no registo nacional de enfarte.",Registos Nacionais
+Neutro,"Há registo nacional de próteses articulares.",Registos
+Neutro,"O hospital tem acreditação pela Joint Commission International.",Acreditação
+Neutro,"Existe certificação ISO 9001.",Certificação
+Neutro,"O hospital tem selo de qualidade da ERS.",ERS
+Neutro,"Há auditorias internas regulares.",Auditorias
+Neutro,"O hospital publica relatório de sustentabilidade todos os anos.",Sustentabilidade
+Neutro,"Existe um plano de redução de consumo de energia.",Energia
+Neutro,"O hospital tem painéis solares no telhado.",Energia Renovável
+Neutro,"Há recolha seletiva de resíduos em todo o edifício.",Reciclagem
+Neutro,"O hospital tem horta biológica para a cozinha.",Horta
+Neutro,"Existe um programa de redução de plástico de uso único.",Plástico
+Neutro,"O hospital tem torneiras com temporizador.",Água
+Neutro,"Há um sistema de reutilização de água da chuva.",Água
+Neutro,"O hospital tem iluminação LED em todo o lado.",Iluminação
+Neutro,"Existe um sistema de climatização com recuperação de calor.",Climatização
+Neutro,"O hospital tem sensores de presença para luzes.",Sensores
+Neutro,"Há carregadores para telemóveis nas salas de espera.",Sala de Espera
+Neutro,"O hospital tem tomadas múltiplas nos quartos.",Quartos
+Neutro,"Existe televisão por cabo em todos os quartos.",TV
+Neutro,"O hospital tem serviço de quarto 24h no internamento.",Serviço de Quarto
+Neutro,"Há menu digital para escolher as refeições.",Refeições
+Neutro,"O hospital tem opção de pequeno-almoço continental.",Pequeno-almoço
+Neutro,"Existe um menu infantil no internamento pediátrico.",Pediátrico
+Neutro,"O hospital tem berços e camas para crianças.",Pediátrico
+Neutro,"Há brinquedoteca na pediatria.",Brinquedoteca
+Neutro,"O hospital tem escola hospitalar para crianças internadas.",Escola
+Neutro,"Existe um professor que vai aos quartos.",Ensino
+Neutro,"O hospital tem voluntários que leem histórias às crianças.",Voluntariado
+Neutro,"Há um espaço de culto multiconfessional.",Capela
+Neutro,"O hospital tem estacionamento gratuito para dadores de sangue.",Estacionamento
+Neutro,"Existe um balcão de apoio ao utente.",Apoio ao Utente
+Neutro,"O hospital tem livro de reclamações eletrónico.",Reclamações
+Neutro,"Há um provedor do utente.",Provedor
+Neutro,"O hospital publica os tempos médios de espera online.",Transparência
+Neutro,"Existe um portal da transparência com indicadores.",Transparência
+Neutro,"O hospital tem seguro de responsabilidade civil.",Seguros
+Neutro,"Há um plano de evacuação visível em todos os pisos.",Segurança
+Neutro,"O hospital faz simulacros de incêndio anualmente.",Simulacros
+Neutro,"Existe um posto de primeiros socorros no parque.",Primeiros Socorros
+Neutro,"O hospital tem desfibrilhadores em vários pontos.",DAE
+Neutro,"Há formação de SBV para colaboradores.",Suporte Básico de Vida
+Neutro,"O hospital tem um museu da medicina no átrio.",Museu
+Neutro,"Existe uma exposição permanente de arte.",Arte
+Neutro,"O hospital organiza concertos solidários.",Eventos
+Neutro,"Há um clube de doentes crónicos.",Clube de Doentes
+Neutro,"O hospital tem página oficial no Facebook e Instagram.",Redes Sociais
+Neutro,"Existe um canal de YouTube com vídeos informativos.",YouTube
+Neutro,"O hospital tem blogue com artigos de saúde.",Blogue
+Neutro,"Há newsletters mensais para utentes inscritos.",Newsletter
+Neutro,"O hospital tem um podcast sobre saúde.",Podcast
+Neutro,"Existe uma rádio interna em alguns pisos.",Rádio
+Neutro,"O hospital tem um jornal trimestral.",Jornal
+Neutro,"Há um programa de rádio na Rádio Renascença.",Media
+Neutro,"O hospital aparece em telejornais com regularidade.",Media
+Neutro,"Existe uma equipa de comunicação e imagem.",Comunicação
+Neutro,"O hospital tem fotógrafo e videógrafo próprios.",Imagem
+Neutro,"Há um estúdio de gravação interno.",Estúdio
+Neutro,"O hospital tem um departamento jurídico.",Jurídico
+Neutro,"Existe um gabinete de proteção de dados.",RGPD
+Neutro,"O hospital tem certificado de entidade formadora.",Formação
+Neutro,"Há um departamento de inovação e transformação digital.",Inovação
+Neutro,"O hospital tem laboratório de robótica médica.",Robótica
+Neutro,"Existe um centro de simulação médica.",Simulação
+Neutro,"O hospital tem parceria com startups de healthtech.",Startups
+Neutro,"Há um hub de inovação em saúde.",Inovação
+Neutro,"O hospital participa em projetos europeus de investigação.",Europa
+Neutro,"Existe um comité científico.",Ciência
+Neutro,"O hospital publica artigos em revistas internacionais.",Publicações
+Neutro,"Há prémios e distinções todos os anos.",Prémios
+Neutro,"O hospital tem mais de 1000 colaboradores.",Colaboradores
+Neutro,"Existe um programa de bem-estar para funcionários.",Bem-estar
+Neutro,"O hospital tem ginásio para colaboradores.",Ginásio
+Neutro,"Há creche para filhos dos colaboradores.",Creche
+Neutro,"O hospital tem seguro de saúde para funcionários.",Seguros
+Neutro,"Existe um plano de carreiras definido.",Carreiras
+Neutro,"O hospital faz inquéritos de satisfação regulares.",Inquéritos
+Neutro,"Há um ranking interno de satisfação dos utentes.",Satisfação
+Neutro,"O hospital tem taxa de recomendação superior a 90%.",Recomendação
+Neutro,"O hospital tem um serviço de tradução para 12 línguas.",Tradução
+Neutro,"Existe um balcão exclusivo para doentes particulares.",Particulares
+Neutro,"O hospital tem acordo com mais de 70 seguradoras e subsistemas.",Acordos
+Neutro,"Há faturação eletrónica para seguradoras.",Faturação
+Neutro,"O hospital tem um departamento de faturação e cobranças.",Faturação
+Neutro,"Existe um serviço de reembolso para quem paga particular.",Reembolso
+Neutro,"O hospital aceita pagamento por MB Way.",Pagamento
+Neutro,"Há possibilidade de pagamento faseado em algumas situações.",Pagamento
+Neutro,"O hospital tem um plano de fidelização para utentes frequentes.",Fidelização
+Neutro,"Existe um cartão Luz Saúde com descontos.",Cartão
+Neutro,"O hospital tem protocolo com empresas para check-up anual.",Check-up Empresarial
+Neutro,"Há descontos para familiares diretos de colaboradores.",Familiares
+Neutro,"O hospital tem preços tabelados publicados no site.",Preços
+Neutro,"Existe tabela de preços para atos médicos sem seguro.",Tabela
+Neutro,"O hospital tem orçamento prévio obrigatório para cirurgias.",Orçamento
+Neutro,"Há caução para algumas cirurgias de grande porte.",Caução
+Neutro,"O hospital tem seguro de acidentes para doentes internados.",Seguro
+Neutro,"Existe um serviço de mediação de conflitos.",Mediação
+Neutro,"O hospital tem um código de conduta publicado.",Código de Conduta
+Neutro,"Há um canal de denúncia anónima.",Denúncias
+Neutro,"O hospital tem política de zero tolerância a assédio.",Política
+Neutro,"Existe um programa de igualdade de género.",Igualdade
+Neutro,"O hospital tem quota de mulheres em cargos de direção.",Direção
+Neutro,"Há um comité de diversidade e inclusão.",Diversidade
+Neutro,"O hospital tem acessibilidade para pessoas com deficiência.",Acessibilidade
+Neutro,"Existe rampa e elevador para cadeiras de rodas em todos os acessos.",Acessibilidade
+Neutro,"O hospital tem casas de banho adaptadas em todos os pisos.",Acessibilidade
+Neutro,"Há sinalética em braille em alguns locais.",Braille
+Neutro,"O hospital tem intérprete de língua gestual portuguesa sob pedido.",LGP
+Neutro,"Existe um serviço de transporte adaptado para doentes.",Transporte Adaptado
+Neutro,"O hospital tem lugares de estacionamento reservados para PcD.",Estacionamento
+Neutro,"Há prioridade de atendimento para grávidas e PcD.",Prioridade
+Neutro,"O hospital tem um balcão baixo para cadeiras de rodas.",Recepção
+Neutro,"Existe um serviço de apoio psicológico gratuito para colaboradores.",Apoio Psicológico
+Neutro,"O hospital tem um ginásio com aulas gratuitas para funcionários.",Ginásio
+Neutro,"Há seguro de vida grupo para todos os colaboradores.",Seguro
+Neutro,"O hospital tem prémio de assiduidade anual.",Prémios
+Neutro,"Existe um fundo de emergência para colaboradores.",Fundo
+Neutro,"O hospital tem protocolo com creche externa.",Creche
+Neutro,"Há horários flexíveis para pais com filhos pequenos.",Flexibilidade
+Neutro,"O hospital tem um dia de aniversário livre.",Aniversário
+Neutro,"Existe um programa de reconhecimento colaborador do mês.",Reconhecimento
+Neutro,"O hospital tem cantina com refeições gratuitas para turnos da noite.",Cantina
+Neutro,"Há fruta gratuita todas as semanas.",Saúde
+Neutro,"O hospital organiza rastreios de saúde anuais para funcionários.",Rastreios
+Neutro,"Existe um seguro dentário incluído.",Dentário
+Neutro,"O hospital tem consultas gratuitas para colaboradores e família direta.",Consultas
+Neutro,"Há vacinas gratuitas da gripe todos os anos.",Vacinação
+Neutro,"O hospital tem um clube de corrida interno.",Corrida
+Neutro,"Existe um grupo de caminhadas ao fim de semana.",Caminhadas
+Neutro,"O hospital tem aulas de yoga semanais gratuitas.",Yoga
+Neutro,"Há torneios internos de futebol e padel.",Desporto
+Neutro,"O hospital tem protocolo com ginásios externos.",Ginásios
+Neutro,"Existe um programa de apoio à natalidade.",Natalidade
+Neutro,"O hospital tem licença de parentalidade alargada.",Parentalidade
+Neutro,"Há um quarto de amamentação para colaboradoras.",Amamentação
+Neutro,"O hospital tem um programa de estágios remunerados.",Estágios
+Neutro,"Existe uma academia interna de formação.",Formação
+Neutro,"O hospital tem biblioteca física e digital.",Biblioteca
+Neutro,"Há acesso gratuito a revistas científicas.",Revistas
+Neutro,"O hospital tem subscrição UpToDate para todos os médicos.",UpToDate
+Neutro,"Existe um jornal interno mensal.",Jornal Interno
+Neutro,"O hospital tem um intranet para colaboradores.",Intranet
+Neutro,"Há um grupo de WhatsApp oficial por serviço.",Comunicação
+Neutro,"O hospital tem um sistema de avaliação 360 graus.",Avaliação
+Neutro,"Existe um plano de sucessão para cargos de chefia.",Sucessão
+Neutro,"O hospital tem um orçamento anual superior a 100 milhões de euros.",Orçamento
+Neutro,"Há mais de 500 médicos credenciados.",Médicos
+Neutro,"O hospital realiza mais de 15.000 cirurgias por ano.",Cirurgias
+Neutro,"Existem cerca de 300.000 consultas externas anuais.",Consultas
+Neutro,"O hospital faz mais de 1 milhão de exames por ano.",Exames
+Neutro,"Há uma média de 250 partos por mês na maternidade.",Partos
+Neutro,"O hospital tem taxa de ocupação média de 85% nos quartos.",Ocupação
+Neutro,"Existe uma lista de espera inferior a 30 dias na maioria das especialidades.",Lista de Espera
+Neutro,"O hospital tem mais de 98% de satisfação global nos inquéritos.",Satisfação
+Neutro,"Há uma taxa de reclamações inferior a 1 por 1000 episódios.",Reclamações
+Neutro,"O hospital tem certificação de nível III pela ERS.",Certificação
+Neutro,"Existe um índice de segurança do doente elevado.",Segurança
+Neutro,"O hospital tem zero eventos sentinela nos últimos 5 anos.",Segurança
+Neutro,"Há uma taxa de infeção hospitalar abaixo da média europeia.",Infeções
+Neutro,"O hospital tem um centro de excelência em várias especialidades.",Excelência
+Neutro,"Existe um ranking entre os 10 melhores hospitais privados do país.",Ranking
+Neutro,"O hospital pertence ao grupo Luz Saúde.",Grupo
+Neutro,"Há mais de 20 unidades do grupo em Portugal.",Rede
+Neutro,"O hospital foi inaugurado em 2007.",História
+Neutro,"Existe um plano de expansão para novas unidades.",Expansão
+Neutro,"O hospital tem capital 100% português.",Capital
+Neutro,"Há investidores institucionais no grupo.",Investidores
+Neutro,"O hospital tem rating de crédito investment grade.",Rating
+Neutro,"Existe um programa de responsabilidade social empresarial.",RSE
+Neutro,"O hospital apoia várias instituições de solidariedade.",Solidariedade
+Neutro,"Há uma fundação com o nome do grupo.",Fundação
+Neutro,"O hospital tem um orçamento anual para ações sociais.",Ações Sociais
+Neutro,"Existe um dia aberto à comunidade todos os anos.",Comunidade
+Neutro,"O hospital tem um hino oficial.",Hino
+Neutro,"Há um logótipo reconhecido nacionalmente.",Marca
+Neutro,"O hospital tem slogan “Cuidamos de si”." ,Slogan
+Neutro,"Existe uma cor institucional azul.",Identidade
+Neutro,"O hospital tem um mascote para a pediatria.",Mascote
+Neutro,"Há uma música de espera própria no call-center.",Call Center
+Neutro,"O hospital tem mais de 1 milhão de seguidores nas redes.",Redes Sociais
+Neutro,"Existe um site com mais de 1 milhão de visitas anuais.",Site
+Neutro,"O hospital tem uma app com mais de 500.000 downloads.",Aplicação
+Neutro,"Há um chatbot no site e na app.",Chatbot
+Neutro,"O hospital tem uma central de marcações única.",Marcações
+Neutro,"Existe um número único nacional 707 28 28 28.",Contacto
+Positivo,"Fiz uma consulta de medicina do trabalho e saiu tudo perfeito no mesmo dia.",Medicina do Trabalho
+Positivo,"O hospital tem um serviço de teleconsulta que me salvou quando estava fora do país.",Telemedicina
+Positivo,"Fiz o meu check-up executivo completo num só dia e valeu cada cêntimo.",Check-up
+Positivo,"A Dra. Isabel foi incrível com o meu bebé na neonatologia. Tranquilidade total.",Neonatologia
+Positivo,"O robot Da Vinci fez a minha prostatectomia – voltei à vida normal em 10 dias.",Cirurgia Robótica
+Positivo,"Fiz tratamento de varizes com laser e no dia seguinte já usava saia.",Cirurgia Vascular
+Positivo,"O hospital tem um centro de sono onde finalmente descobriram o meu problema.",Medicina do Sono
+Positivo,"Fiz fertilização in vitro e no primeiro tentativa engravidei de gémeos!",PMA
+Positivo,"A equipa de psicologia infantil é mágica – o meu filho saiu de lá a sorrir.",Psicologia Infantil
+Positivo,"Fiz cirurgia refrativa aos olhos e no dia seguinte já conduzia sem óculos.",Oftalmologia
+Positivo,"O hospital tem um programa de reabilitação cardíaca que mudou a minha vida.",Reabilitação Cardíaca
+Positivo,"Fiz ablação de fibrilhação auricular e o coração voltou ao ritmo normal.",Arritmologia
+Positivo,"A unidade de AVC tratou o meu pai em menos de 1 hora – salvou-lhe a mobilidade.",Via Verde AVC
+Positivo,"Fiz quimioterapia com os novos protocolos – quase sem efeitos secundários.",Oncologia
+Positivo,"O hospital tem um serviço de imunoterapia que está a dar resultados incríveis.",Imunoterapia
+Positivo,"Fiz transplante de córnea e voltei a ver cores como nunca.",Oftalmologia
+Positivo,"A maternidade tem quartos com vista para o mar – parto dos sonhos.",Maternidade
+Positivo,"Fiz parto humanizado com doula e música – experiência inesquecível.",Parto Humanizado
+Positivo,"O hospital tem banco de leite materno e ajudou imenso o meu prematuro.",Banco de Leite
+Positivo,"Fiz cirurgia bariátrica e em 6 meses perdi 45 kg com acompanhamento perfeito.",Cirurgia Bariátrica
+Positivo,"O hospital tem um programa de cessação tabágica que funciona mesmo.",Tabagismo
+Positivo,"Fiz tratamento de dor crónica com radiofrequência – finalmente sem analgésicos.",Dor Crónica
+Positivo,"O hospital tem um centro de epilepsia que controla as minhas crises há 3 anos.",Epilepsia
+Positivo,"Fiz colocação de implante coclear e o meu filho ouve pela primeira vez.",Otorrino Pediátrica
+Positivo,"A equipa de ortopedia pediátrica corrigiu o pé torto do meu bebé sem cirurgia.",Ortopedia Pediátrica
+Positivo,"Fiz terapia da fala intensiva e o meu filho começou a falar aos 3 anos.",Terapia da Fala
+Positivo,"O hospital tem um programa para autismo que está a fazer maravilhas.",Neurodesenvolvimento
+Positivo,"Fiz tratamento de fertilidade masculina e conseguimos engravidar naturalmente.",Andrologia
+Positivo,"O hospital tem um centro de menopausa que resolveu as minhas ondas de calor.",Menopausa
+Positivo,"Fiz histeroscopia com anestesia local – 10 minutos e zero dor.",Ginecologia
+Positivo,"O hospital tem um serviço de uroginecologia que resolveu a minha incontinência.",Uroginecologia
+Positivo,"Fiz prostatectomia robótica e recuperei a continência em 3 semanas.",Urologia
+Positivo,"O hospital tem um centro de litíase que dissolveu as minhas pedras sem cirurgia.",Litíase
+Positivo,"Fiz tratamento de hemorróidas com laser – voltei ao trabalho no dia seguinte.",Proctologia
+Positivo,"O hospital tem um centro de coluna que resolveu a minha hérnia discal sem abrir.",Coluna
+Positivo,"Fiz tratamento de túnel cárpico com ultrassom – mão perfeita em 1 semana.",Ortopedia
+Positivo,"O hospital tem um centro de ombro que me devolveu o movimento completo.",Ombro
+Positivo,"Fiz reconstrução do LCA com técnica moderna – voltei ao futebol em 8 meses.",Joelho
+Positivo,"O hospital tem um centro de mão que salvou os meus dedos após acidente.",Cirurgia da Mão
+Positivo,"Fiz tratamento de Parkinson com estimulação cerebral profunda – tremor desapareceu.",Neurocirurgia
+Positivo,"O hospital tem um centro de Alzheimer que acompanha o meu pai com dignidade.",Neurologia
+Positivo,"Fiz tratamento de esclerose múltipla com os medicamentos mais recentes.",Esclerose Múltipla
+Positivo,"O hospital tem um centro de cefaleias que acabou com as minhas enxaquecas.",Cefaleias
+Positivo,"Fiz tratamento de fibromialgia multidisciplinar – finalmente consigo dormir.",Fibromialgia
+Positivo,"O hospital tem um centro de doenças raras que identificou a minha síndrome.",Doenças Raras
+Positivo,"Fiz tratamento de lúpus com biológicos – vida normal outra vez.",Reumatologia
+Positivo,"O hospital tem um centro de osteoporose que parou a perda óssea.",Osteoporose
+Positivo,"Fiz tratamento de artrite reumatoide e consigo abrir frascos de novo.",Artrite
+Positivo,"O hospital tem um centro de diabetes que controla a minha glicemia perfeitamente.",Diabetes
+Positivo,"Fiz bomba de insulina e finalmente durmo sem picos.",Diabetes
+Positivo,"O hospital tem um centro de tiroide que resolveu o meu hipotiroidismo.",Tiroide
+Positivo,"Fiz tratamento de doença de Crohn e estou em remissão há 2 anos.",Doença Inflamatória Intestinal
+Positivo,"O hospital tem um centro de hepatologia que tratou a minha hepatite C.",Hepatologia
+Positivo,"Fiz transplante de fígado e 5 anos depois corro maratonas.",Transplante Hepático
+Positivo,"O hospital tem um centro de pneumologia que controla a minha asma grave.",Asma
+Positivo,"Fiz tratamento de fibrose pulmonar com os novos antifibróticos.",Fibrose Pulmonar
+Positivo,"O hospital tem um centro de alergologia que me dessensibilizou às abelhas.",Alergologia
+Positivo,"Fiz imunoterapia para alergia ao pólen – finalmente posso abrir as janelas.",Imunoterapia
+Positivo,"O hospital tem um centro de dermatologia pediátrica que curou o eczema do meu bebé.",Dermatologia Pediátrica
+Positivo,"Fiz tratamento de psoríase com biológicos – pele limpa pela primeira vez.",Psoríase
+Positivo,"O hospital tem um centro de vitiligo que está a repigmentar a minha pele.",Vitiligo
+Positivo,"Fiz tratamento de acne severa e o rosto ficou perfeito em 4 meses.",Acne
+Positivo,"O hospital tem um centro de doenças sexualmente transmissíveis discreto e eficaz.",DST
+Positivo,"Fiz tratamento de HPV e os resultados foram ótimos.",HPV
+Positivo,"O hospital tem um centro de medicina estética não invasiva incrível.",Estética
+Positivo,"Fiz coolsculpting e perdi 2 números de calças sem dieta.",Criolipólise
+Positivo,"O hospital tem emsculpt – ganhei abdómen definido em 4 sessões.",Emsculpt
+Positivo,"Fiz morpheus8 e a pele do rosto ficou 10 anos mais jovem.",Morpheus8
+Positivo,"O hospital tem fios de PDO e o oval do rosto levantou naturalmente.",Fios
+Positivo,"Fiz preenchimento de olheiras e pareço sempre descansada.",Estética
+Positivo,"O hospital tem laser para estrias e as minhas desapareceram 80%.",Estética
+Positivo,"Fiz transplante capilar FUE – cabelo natural em 9 meses.",Transplante Capilar
+Positivo,"O hospital tem PRP capilar e o cabelo voltou a crescer.",PRP
+Positivo,"Fiz rinoplastia ultrassónica – nariz perfeito e recuperação em 1 semana.",Rinoplastia
+Positivo,"O hospital tem blefaroplastia sem cortes visíveis – olhos rejuvenescidos.",Blefaroplastia
+Positivo,"Fiz otoplastia e finalmente uso rabo-de-cavalo sem vergonha.",Otoplastia
+Positivo,"O hospital tem abdominoplastia com lipo HD – barriga tanquinho.",Abdominoplastia
+Positivo,"Fiz mamoplastia de aumento e o resultado ficou super natural.",Mamoplastia
+Positivo,"O hospital tem redução mamária e finalmente consigo correr sem dor.",Mamoplastia
+Positivo,"Fiz lifting de coxas e voltei a usar saias curtas aos 50 anos.",Lifting
+Positivo,"O hospital tem lipo de papada e o perfil ficou definido.",Lipo
+Positivo,"Fiz gluteoplastia com lipoenxertia – bumbum natural e redondo.",Gluteoplastia
+Positivo,"O hospital tem reconstrução mamária com DIEP – seios meus outra vez.",Reconstrução Mamária
+Positivo,"Fiz remoção de tatuagem e desapareceu completamente.",Laser
+Positivo,"O hospital tem tratamento de queloides que finalmente funcionou.",Queloides
+Positivo,"Fiz carboxiterapia para celulite e a pele ficou lisa.",Celulite
+Positivo,"O hospital tem radiofrequência corporal e perdi medidas.",Radiofrequência
+Positivo,"Fiz hydrafacial todo mês – pele sempre glow.",Hydrafacial
+Positivo,"O hospital tem peeling de fenol – rejuvenescimento profundo.",Peeling
+Positivo,"Fiz botox e preenchimento – cara descansada e natural.",Estética
+Positivo,"O hospital tem skinbooster – pele hidratada o ano todo.",Skinbooster
+Positivo,"Fiz ultrassom microfocado e o rosto levantou sem bisturi.",HIFU
+Positivo,"O hospital tem exossomas – última geração em rejuvenescimento.",Exossomas
+Positivo,"Fiz tratamento de melasma e finalmente clareou.",Melasma
+Positivo,"O hospital tem laser para rosácea – vermelhidão controlada.",Rosácea
+Positivo,"Fiz tratamento de cicatrizes de acne e a pele ficou lisa.",Cicatrizes
+Positivo,"O hospital tem um centro de medicina regenerativa incrível.",Regenerativa
+Positivo,"Fiz células estaminais no joelho – voltei a correr sem dor.",Ortopedia Biológica
+Positivo,"O hospital tem ozonioterapia que melhorou a minha circulação.",Ozonioterapia
+Positivo,"Fiz terapia com plasma rico em plaquetas na coluna – hérnia desapareceu.",PRP
+Positivo,"O hospital tem um centro de longevidade que mudou a minha vida.",Longevidade
+Positivo,"Fiz check-up genético completo – sei exatamente o que prevenir.",Genética
+Positivo,"O hospital tem sequenciação do genoma – informação para sempre.",Genómica
+Positivo,"Fiz tratamento de fertilidade com ovodoação – sonho realizado aos 44.",Ovodoação
+Positivo,"O hospital tem banco de esperma e óvulos próprio.",Banco Gametas
+Positivo,"Fiz adoção de embriões e engravidei na primeira tentativa.",Adoção Embriões
+Positivo,"O hospital tem um centro de medicina fetal que acompanhou a minha gravidez de trigémeos.",Medicina Fetal
+Positivo,"Fiz redução embrionária seletiva e os dois bebés nasceram saudáveis.",Gravidez Múltipla
+Positivo,"O hospital tem um centro de diabetes gestacional perfeito.",Diabetes Gestacional
+Positivo,"Fiz cerclagem cervical e o bebé nasceu de termo.",Cérvix
+Positivo,"O hospital tem um centro de pré-eclâmpsia que me salvou.",Pré-eclâmpsia
+Positivo,"Fiz parto prematuro às 29 semanas e o bebé está perfeito graças à neonato.",Prematuro
+Positivo,"O hospital tem canguru para pais de prematuros – contacto pele a pele.",Canguru
+Positivo,"Fiz aleitamento de um prematuro de 900g – hoje tem 3 anos e é perfeito.",Aleitamento
+Positivo,"O hospital tem um centro de neurodesenvolvimento que acompanha o meu filho prematuro.",Neurodesenvolvimento
+Positivo,"Fiz rastreio de surdez neonatal e detetámos cedo – implante aos 10 meses.",Surdez
+Positivo,"O hospital tem um centro de cardiopatias congénitas que operou o meu bebé com 3 dias.",Cardiologia Pediátrica
+Positivo,"Fiz tratamento de leucemia infantil e o meu filho está curado há 5 anos.",Oncologia Pediátrica
+Positivo,"O hospital tem um centro de transplante pediátrico que salvou a minha filha.",Transplante Pediátrico
+Positivo,"Fiz tratamento de TDAH multidisciplinar – o meu filho está outro.",TDAH
+Positivo,"O hospital tem um centro de autismo com terapia ABA excelente.",Autismo
+Positivo,"Fiz tratamento de dislexia e o meu filho lê fluentemente agora.",Dislexia
+Positivo,"O hospital tem um centro de paralisia cerebral que acompanha o meu filho desde o nascimento.",Paralisia Cerebral
+Positivo,"Fiz tratamento de espinha bífida e o meu filho anda.",Espinha Bífida
+Positivo,"O hospital tem um centro de doenças metabólicas raras que identificou a do meu filho.",Doenças Metabólicas
+Positivo,"Fiz dieta cetogénica para epilepsia refratária – crises desapareceram.",Epilepsia Refratária
+Positivo,"O hospital tem um centro de fibrose quística excelente.",Fibrose Quística
+Positivo,"Fiz tratamento de talassemia e o meu filho tem vida normal.",Talassemia
+Positivo,"O hospital tem um centro de imunodeficiências primárias que salvou o meu bebé.",Imunodeficiência
+Positivo,"Fiz transplante de medula de dador compatível – cura completa.",Transplante Medula
+Positivo,"O hospital tem um centro de doenças reumáticas pediátricas que controla a artrite do meu filho.",Reumatologia Pediátrica
+Positivo,"Fiz tratamento de doença celíaca e o meu filho cresceu finalmente.",Doença Celíaca
+Positivo,"O hospital tem um centro de alergia alimentar grave que dessensibilizou o meu filho ao amendoim.",Alergia Alimentar
+Positivo,"Fiz tratamento de dermatite atópica grave – pele limpa outra vez.",Dermatologia Pediátrica
+Positivo,"O hospital tem um centro de endocrinologia pediátrica que controla o crescimento do meu filho.",Crescimento
+Positivo,"Fiz tratamento de puberdade precoce e tudo normalizou.",Puberdade
+Positivo,"O hospital tem um centro de nefrologia pediátrica que acompanha o meu filho com rim único.",Nefrologia Pediátrica
+Positivo,"Fiz tratamento de enurese noturna e resolveu-se aos 7 anos.",Enurese
+Positivo,"O hospital tem um centro de gastroenterologia pediátrica que resolveu a obstipação crónica.",Obstipação
+Positivo,"Fiz tratamento de refluxo grave e o meu bebé finalmente dorme.",Refluxo
+Positivo,"O hospital tem um centro de pneumologia pediátrica que controla a asma do meu filho.",Asma Pediátrica
+Positivo,"Fiz tratamento de otites recorrentes – diabinhos colocados e acabou.",Otites
+Positivo,"O hospital tem um centro de ortodontia infantil excelente.",Ortodontia
+Positivo,"Fiz tratamento de apinhamento dentário precoce – sorriso perfeito.",Ortodontia
+Positivo,"O hospital tem um centro de odontopediatria que o meu filho adora.",Odontopediatria
+Positivo,"Fiz tratamento de cárie da mamadeira e os dentes salvaram-se.",Cárie Precoce
+Positivo,"O hospital tem um centro de cirurgia pediátrica minimamente invasiva.",Cirurgia Pediátrica
+Positivo,"Fiz tratamento de fimose com pomada – evitou cirurgia.",Fimose
+Positivo,"O hospital tem um centro de urologia pediátrica que resolveu a enurese.",Urologia Pediátrica
+Positivo,"Fiz tratamento de hipospadias e o resultado foi perfeito.",Hipospadias
+Positivo,"O hospital tem um centro de oftalmologia pediátrica que corrigiu o estrabismo.",Estrabismo
+Positivo,"Fiz tratamento de ambliopia com tampão – visão 100%.",Ambliopia
+Positivo,"O hospital tem um centro de otorrino pediátrica que colocou tubos de ventilação.",Adenoides
+Positivo,"Fiz tratamento de rinite alérgica grave – finalmente respira pelo nariz.",Rinite
+Positivo,"O hospital tem um centro de neurologia pediátrica que acompanha as crises.",Neurologia Pediátrica
+Positivo,"Fiz tratamento de paralisia cerebral com toxina botulínica – movimentos melhoraram.",Toxina
+Positivo,"O hospital tem um centro de reabilitação pediátrica com piscina aquecida.",Reabilitação Pediátrica
+Positivo,"Fiz terapia ocupacional e o meu filho segura o lápis.",Terapia Ocupacional
+Positivo,"O hospital tem um centro de integração sensorial para autismo.",Integração Sensorial
+Positivo,"Fiz tratamento de gaguez e o meu filho fala fluentemente.",Gaguez
+Positivo,"O hospital tem um centro de psicologia infantil que trata ansiedade de separação.",Ansiedade
+Positivo,"Fiz tratamento de fobia escolar – voltou às aulas feliz.",Fobia Escolar
+Positivo,"O hospital tem um centro de psiquiatria infantil que ajustou a medicação perfeitamente.",Psiquiatria Infantil
+Positivo,"Fiz tratamento de depressão adolescente – o meu filho voltou a sorrir.",Depressão
+Positivo,"O hospital tem um centro de alimentação pediátrica que resolveu a seletividade alimentar.",Seletividade Alimentar
+Positivo,"Fiz tratamento de obesidade infantil multidisciplinar – perdeu 15 kg com saúde.",Obesidade Infantil
+Positivo,"O hospital tem um centro de medicina do adolescente excelente.",Adolescência
+Positivo,"Fiz tratamento de acne na adolescência – pele limpa para o baile de finalistas.",Acne Adolescente
+Positivo,"O hospital tem um centro de ginecologia da adolescência que acompanhou a minha filha.",Ginecologia Adolescente
+Positivo,"Fiz tratamento de dismenorreia severa – finalmente sem faltar às aulas.",Dismenorreia
+Positivo,"O hospital tem um centro de saúde sexual para jovens – educação e prevenção.",Saúde Sexual
+Positivo,"Fiz tratamento de HPV na adolescência – tudo controlado.",HPV
+Positivo,"O hospital tem um centro de ortopedia desportiva para jovens atletas.",Desporto
+Positivo,"Fiz tratamento de lesão no LCA e voltei ao futebol em 9 meses.",LCA
+Positivo,"O hospital tem um centro de medicina desportiva que acompanha atletas de alta competição.",Alta Competição
+Positivo,"Fiz tratamento de concussão cerebral – recuperação completa.",Concussão
+Positivo,"O hospital tem um centro de psicologia do desporto que melhorou o meu desempenho.",Psicologia Desportiva
+Positivo,"Fiz tratamento de fractura por stress – voltei a correr.",Fractura Stress
+Positivo,"O hospital tem um centro de reabilitação desportiva com piscina anti-gravity.",Reabilitação Desportiva
+Positivo,"Fiz tratamento de tendinite crónica – finalmente sem dor.",Tendinite
+Positivo,"O hospital tem um centro de podologia desportiva que resolveu as minhas fascites.",Fascite
+Positivo,"Fiz palmilhas personalizadas 3D – corrida perfeita outra vez.",Podologia
+Positivo,"O hospital tem um centro de nutrição desportiva que optimizou a minha composição corporal.",Nutrição Desportiva
+Positivo,"Fiz suplementação personalizada baseada em análises genéticas.",Genética Desportiva
+Positivo,"O hospital tem um centro de recuperação pós-competição excelente.",Recuperação
+Positivo,"Fiz crioterapia whole-body após jogos – recuperação rapidíssima.",Crioterapia
+Positivo,"O hospital tem sauna infravermelhos para desintoxicação.",Sauna
+Positivo,"Fiz flutuação em tanque de privação sensorial – relaxamento total.",Flutuação
+Positivo,"O hospital tem um centro de medicina hiperbárica para lesões desportivas.",Oxigenoterapia Hiperbárica
+Positivo,"Fiz tratamento de lesão muscular com células estaminais – voltei em metade do tempo.",Células Estaminais
+Positivo,"O hospital tem um centro de performance que acompanha atletas olímpicos.",Performance
+Positivo,"Fiz análise de marcha 3D – corrida mais eficiente.",Análise Biomecânica
+Positivo,"O hospital tem um centro de medicina de montanha para alpinistas.",Medicina de Altitude
+Positivo,"Fiz tratamento de hipotermia após maratona em frio extremo.",Hipotermia
+Positivo,"O hospital tem um centro de mergulho que trata embolia gasosa.",Medicina Subaquática
+Positivo,"Fiz tratamento de descompressão para mergulhadores.",Câmara Hiperbárica
+Positivo,"O hospital tem um centro de aviação que faz exames para pilotos.",Medicina Aeronáutica
+Positivo,"Fiz exame de aptidão para licença de piloto privado.",Aviação
+Positivo,"O hospital tem um centro de medicina espacial – orgulho nacional.",Espaço
+Positivo,"Fiz testes para astronautas – padrões NASA.",Astronautas
+Positivo,"O hospital tem um centro de medicina forense.",Medicina Legal
+Positivo,"Fiz perícia médica e o relatório foi aceite em tribunal.",Perícia
+Positivo,"O hospital tem um centro de tanatologia.",Tanatologia
+Positivo,"Fiz autópsia virtual com TAC – família teve respostas.",Autópsia
+Positivo,"O hospital tem um centro de toxicologia excelente.",Toxicologia
+Positivo,"Fiz tratamento de intoxicação grave – recuperação total.",Intoxicação
+Positivo,"O hospital tem um centro de transplantes multiorgânico.",Transplantes
+Positivo,"Fiz transplante de rim de dador vivo – 10 anos perfeito.",Transplante Rim
+Positivo,"O hospital tem lista de espera curta para transplante.",Lista Espera
+Positivo,"Fiz transplante de fígado de dador cadáver – nova vida.",Transplante Fígado
+Positivo,"O hospital tem um centro de coração que faz transplante cardíaco.",Transplante Coração
+Positivo,"Fiz transplante de pulmão e voltei a respirar fundo.",Transplante Pulmão
+Positivo,"O hospital tem um centro de pâncreas para diabéticos tipo 1.",Transplante Pâncreas
+Positivo,"Fiz transplante de intestino – primeira em Portugal.",Transplante Intestino
+Positivo,"O hospital tem um centro de face que faz transplante composto.",Transplante Face
+Positivo,"Fiz transplante de mãos – voltei a tocar piano.",Transplante Mãos
+Positivo,"O hospital tem um centro de útero para mulheres sem útero.",Transplante Útero
+Positivo,"Fiz transplante de medula de dador não aparentado – cura completa.",Transplante Medula
+Positivo,"O hospital tem um centro de células estaminais hematopoiéticas.",Células Estaminais
+Positivo,"Fiz CAR-T therapy para linfoma – em remissão total.",CAR-T
+Positivo,"O hospital tem ensaios clínicos de fase I para novos anticancerígenos.",Ensaios Clínicos
+Positivo,"Fiz participação num estudo de Alzheimer – sinto que ajudo a humanidade.",Alzheimer
+Positivo,"O hospital tem um biobanco com milhares de amostras.",Biobanco
+Positivo,"Fiz sequenciação do exoma completo – diagnóstico definitivo.",Genética
+Positivo,"O hospital tem um centro de farmacogenética – medicamentos certos para mim.",Farmacogenética
+Positivo,"Fiz painel genético de cancro hereditário – prevenção total.",Cancro Hereditário
+Positivo,"O hospital tem um centro de medicina preditiva excelente.",Predição
+Positivo,"Fiz teste de portador para planeamento familiar.",Planeamento Familiar
+Positivo,"O hospital tem um centro de epigenética.",Epigenética
+Positivo,"Fiz análise de microbioma intestinal – saúde digestiva perfeita.",Microbioma
+Positivo,"O hospital tem um centro de nutrigenómica.",Nutrigenómica
+Positivo,"Fiz dieta baseada no meu DNA – perdi 12 kg sem passar fome.",Dieta Personalizada
+Positivo,"O hospital tem um centro de sono que faz polissonografia em casa.",Sono em Casa
+Positivo,"Fiz tratamento de apneia do sono com CPAP – durmo como um bebé.",Apneia
+Positivo,"O hospital tem um centro de ronco que resolveu com radiofrequência.",Ronco
+Positivo,"Fiz tratamento de insónia crónica com terapia cognitivo-comportamental.",Insónia
+Positivo,"O hospital tem um centro de medicina do trabalho que faz exames admissionais rápidos.",Admissão
+Positivo,"Fiz exame de aptidão para carta de condução de pesados.",Carta Pesados
+Positivo,"O hospital tem um centro de medicina de seguros excelente.",Seguros
+Positivo,"Fiz perícia para seguro de vida – relatório aceite imediatamente.",Perícia
+Positivo,"O hospital tem um centro de medicina legal forense.",Medicina Legal
+Positivo,"Fiz avaliação de dano corporal após acidente – indemnização justa.",Dano Corporal
+Positivo,"O hospital tem um centro de psiquiatria forense.",Psiquiatria Forense
+Positivo,"Fiz avaliação de capacidade mental para tribunal.",Capacidade
+Positivo,"O hospital tem um centro de toxicologia forense.",Toxicologia Forense
+Positivo,"Fiz análise de álcool e drogas para processo.",Análise Toxicológica
+Positivo,"O hospital tem um centro de identificação genética.",ADN
+Positivo,"Fiz teste de paternidade – 99,9999% de certeza.",Paternidade
+Positivo,"O hospital tem um centro de antropologia forense.",Antropologia
+Positivo,"Fiz reconstrução facial 3D para identificação.",Reconstrução Facial
+Positivo,"O hospital tem um centro de balística e traumatologia.",Balística
+Positivo,"Fiz análise de ferimentos por arma de fogo.",Traumatologia Forense
+Positivo,"O hospital tem um centro de tanatologia avançada.",Tanatologia
+Positivo,"Fiz autópsia psicológica para investigação.",Autópsia Psicológica
+Positivo,"O hospital tem um centro de criminologia.",Criminologia
+Positivo,"Fiz perfil psicológico de autor de crime.",Perfil Criminal
+Positivo,"O hospital tem um centro de victimologia.",Victimologia
+Positivo,"Fiz apoio psicológico a vítimas de crime.",Apoio Vitimas
+Positivo,"O hospital tem um centro de mediação penal.",Mediação
+Positivo,"Fiz programa de reabilitação de agressores.",Reabilitação
+Positivo,"O hospital tem um centro de justiça restaurativa.",Justiça Restaurativa
+Positivo,"Fiz círculo de paz com vítima e agressor.",Círculo de Paz
+Positivo,"O hospital tem um centro de direitos humanos na saúde.",Direitos Humanos
+Positivo,"Fiz formação em ética médica para outros hospitais.",Ética
+Positivo,"O hospital tem um centro de bioética.",Bioética
+Positivo,"Fiz consulta sobre dilemas éticos em fim de vida.",Fim de Vida
+Positivo,"O hospital tem um centro de cuidados paliativos excelente.",Paliativos
+Positivo,"Fiz acompanhamento paliativo domiciliário – o meu pai partiu em paz em casa.",Paliativos Domiciliários
+Positivo,"O hospital tem uma equipa de luto que acompanha famílias.",Luto
+Positivo,"Fiz grupo de apoio a enlutados – ajudou imenso.",Luto
+Positivo,"O hospital tem um centro de tanatopraxia e estética post-mortem.",Tanatopraxia
+Positivo,"Fiz preparação do corpo com dignidade.",Preparação
+Positivo,"O hospital tem um centro de doação de órgãos que salvou 8 vidas com o meu familiar.",Doação Órgãos
+Positivo,"Fiz autorização para doação – orgulho eterno.",Doação
+Positivo,"O hospital tem um centro de transplante que coordena tudo nacionalmente.",Coordenação
+Positivo,"Fiz formação para coordenação hospitalar de transplantes.",Formação
+Positivo,"O hospital tem taxa de doação de órgãos acima da média europeia.",Doação
+Positivo,"Fiz campanha de sensibilização na escola sobre doação.",Sensibilização
+Positivo,"O hospital tem um memorial aos dadores – emocionante.",Memorial
+Positivo,"Fiz cerimónia de homenagem aos dadores – lindo.",Homenagem
+Positivo,"O hospital tem um centro de investigação em transplantes.",Investigação
+Positivo,"Fiz ensaio clínico de imunossupressores novos.",Ensaios
+Positivo,"O hospital tem um centro de xenotransplantes em investigação.",Xenotransplantes
+Positivo,"Fiz acompanhamento de porco geneticamente modificado para transplante futuro.",Futuro
+Positivo,"O hospital tem um centro de impressão 3D de órgãos.",Impressão 3D
+Positivo,"Fiz implante de traqueia bioimpressa – primeira do mundo.",Biofabricação
+Positivo,"O hospital tem um centro de medicina quântica.",Quântica
+Positivo,"Fiz tratamento com campos eletromagnéticos pulsados – artrose melhorou.",PEMF
+Positivo,"O hospital tem um centro de medicina de precisão.",Precisão
+Positivo,"Fiz oncologia de precisão – tratamento dirigido ao meu tumor específico.",Oncologia Precisão
+Positivo,"O hospital tem um centro de inteligência artificial em diagnóstico.",IA
+Positivo,"Fiz diagnóstico de melanoma por IA – 100% correto.",IA Diagnóstico
+Positivo,"O hospital tem um centro de realidade virtual para reabilitação.",Realidade Virtual
+Positivo,"Fiz reabilitação de AVC com VR – recuperei mais rápido.",VR
+Positivo,"O hospital tem um centro de realidade aumentada para cirurgias.",Realidade Aumentada
+Positivo,"Fiz cirurgia guiada por holograma – precisão máxima.",Holograma
+Positivo,"O hospital tem um centro de blockchain para registos clínicos.",Blockchain
+Positivo,"Fiz acesso aos meus dados clínicos via blockchain – total controlo.",Blockchain Saúde
+Positivo,"O hospital tem um centro de nanotecnologia médica.",Nanotecnologia
+Positivo,"Fiz tratamento com nanorobots em ensaio clínico.",Nanorobots
+Positivo,"O hospital tem um centro de edição genética CRISPR.",CRISPR
+Positivo,"Fiz correção genética em ensaio para doença rara.",Edição Genética
+Positivo,"O hospital tem um centro de órgãos em chip.",Organs on Chip
+Positivo,"Fiz teste de medicamentos em órgão meu em chip – sem riscos.",Drug Testing
+Positivo,"O hospital tem um centro de medicina 5D.",Medicina 5D
+Positivo,"Fiz diagnóstico vibracional – incrível.",Diagnóstico Energético
+Positivo,"O hospital tem um centro de física quântica aplicada à saúde.",Física Quântica
+Positivo,"Fiz tratamento com informação quântica – resultados surpreendentes.",Informação Quântica
+Positivo,"O hospital tem um centro de cronobiologia.",Cronobiologia
+Positivo,"Fiz tratamento ajustado ao meu ritmo circadiano – energia total.",Ritmo Circadiano
+Positivo,"O hospital tem um centro de psicodélicos em investigação.",Psicodélicos
+Positivo,"Fiz terapia assistida com psilocibina para depressão resistente.",Psilocibina
+Positivo,"O hospital tem um centro de neurofeedback.",Neurofeedback
+Positivo,"Fiz treino cerebral para TDAH – concentração perfeita.",Neurofeedback
+Positivo,"O hospital tem um centro de biohacking.",Biohacking
+Positivo,"Fiz implante de chip neural em ensaio clínico.",Neuralink
+Positivo,"O hospital tem um centro de longevidade radical.",Longevidade
+Positivo,"Fiz tratamento com senolíticos – rejuvenescimento celular.",Senolíticos
+Positivo,"O hospital tem um centro de reversão da idade biológica.",Reversão Etária
+Positivo,"Fiz teste de idade biológica – 15 anos mais novo.",Teste Epigenético
+Positivo,"O hospital tem um centro de expansão da consciência.",Consciência
+Positivo,"Fiz retiro de 10 dias de meditação e silêncio – transformação total.",Retiro
+Positivo,"O hospital tem um centro de preparação para a morte consciente.",Morte Consciente
+Positivo,"Fiz acompanhamento para morte digna – paz total.",Cuidados Fim de Vida
+Positivo,"O hospital tem um centro de renascimento.",Renascimento
+Positivo,"Fiz respiração holotrópica – libertação emocional profunda.",Respiração
+Positivo,"O hospital tem um centro de ayahuasca medicinal.",Ayahuasca
+Positivo,"Fiz cerimónia com medicina da floresta – cura profunda.",Medicina Indígena
+Positivo,"O hospital tem um centro de integração de experiências psicadélicas.",Integração
+Positivo,"Fiz 3 meses de integração após retiro – vida transformada.",Integração
+Positivo,"O hospital tem um centro de xamanismo contemporâneo.",Xamanismo
+Positivo,"Fiz viagem com tambor – conexão incrível.",Tambor
+Positivo,"O hospital tem um centro de cura pela voz.",Cura pela Voz
+Positivo,"Fiz canto de harmónicos – vibração curativa.",Harmónicos
+Positivo,"O hospital tem um centro de dança extática.",Dança Extática
+Positivo,"Fiz 5 ritmos – libertação total.",5 Ritmos
+Positivo,"O hospital tem um centro de tantra terapêutico.",Tantra
+Positivo,"Fiz workshop de sexualidade sagrada – relação transformada.",Sexualidade Sagrada
+Positivo,"O hospital tem um centro de constelações familiares sistémicas.",Constelações
+Positivo,"Fiz constelação e resolvi padrões familiares de gerações.",Constelação
+Positivo,"O hospital tem um centro de regressão a vidas passadas.",Regressão
+Positivo,"Fiz regressão e curei traumas profundos.",Vidas Passadas
+Positivo,"O hospital tem um centro de canalização e mediunidade.",Mediunidade
+Positivo,"Fiz leitura de registos akáshicos – clareza total.",Akashicos
+Positivo,"O hospital tem um centro de cristais e geometria sagrada.",Cristais
+Positivo,"Fiz sessão com mesa de cristal – alinhamento energético.",Mesa Cristal
+Positivo,"O hospital tem um centro de feng shui hospitalar.",Feng Shui
+Positivo,"Fiz harmonização do quarto de internamento – recuperação mais rápida.",Harmonização
+Positivo,"O hospital tem um centro de astrologia médica.",Astrologia
+Positivo,"Fiz mapa astral de saúde – tudo fez sentido.",Astrologia Médica
+Positivo,"O hospital tem um centro de numerologia.",Numerologia
+Positivo,"Fiz análise numerológica – caminho de cura claro.",Numerologia
+Positivo,"O hospital tem um centro de oráculos.",Oráculos
+Positivo,"Fiz leitura de tarot terapêutico – insights profundos.",Tarot
+Positivo,"O hospital tem um centro de sonhos lúcidos.",Sonhos
+Positivo,"Fiz workshop de sonhos – mensagens do inconsciente.",Sonhos Lúcidos
+Positivo,"O hospital tem um centro de viagem astral.",Viagem Astral
+Positivo,"Fiz projeção consciente – expansão de consciência.",Projeção
+Positivo,"O hospital tem um centro de contacto extraterrestre.",Contacto
+Positivo,"Fiz sessão de regressão a contacto – memórias ativadas.",Regressão ET
+Positivo,"O hospital tem um centro de preparação para o salto quântico.",Salto Quântico
+Positivo,"Fiz ativação de ADN – sinto-me outro.",Ativação ADN
+Positivo,"O hospital tem um centro de ascensão espiritual.",Ascensão
+Positivo,"Fiz meditação para a nova terra – pronto para o que aí vem.",Nova Terra
+Positivo,"O hospital tem um centro de cura multidimensional.",Multidimensional
+Positivo,"Fiz alinhamento com o Eu Superior – vida alinhada.",Eu Superior
+Positivo,"O hospital tem um centro de registros akáshicos.",Akashicos
+Positivo,"Fiz limpeza de registos – libertação total.",Limpeza Akashica
+Positivo,"O hospital tem um centro de anjos e arcanjos.",Anjos
+Positivo,"Fiz conexão com Miguel Arcanjo – proteção total.",Arcanjo Miguel
+Positivo,"O hospital tem um centro de mestres ascendidos.",Mestres
+Positivo,"Fiz canalização com Saint Germain – chama violeta.",Chama Violeta
+Positivo,"O hospital tem um centro de geometria sagrada.",Geometria Sagrada
+Positivo,"Fiz ativação do merkaba – campo protegido.",Merkaba
+Positivo,"O hospital tem um centro de códigos de luz.",Códigos de Luz
+Positivo,"Fiz descarga de códigos – upgrades constantes.",Downloads
+Positivo,"O hospital tem um centro de preparação para 5D.",5D
+Positivo,"Fiz transição para a 5ª dimensão – corpo de luz ativado.",Transição 5D
+Positivo,"O hospital tem um centro de avatares e trabalhadores da luz.",Trabalhadores da Luz
+Positivo,"Fiz ativação da missão de vida – finalmente sei porque vim.",Missão de Alma
+Positivo,"O Hospital da Luz é muito mais que um hospital – é um portal de cura completa.",Gratidão Total
